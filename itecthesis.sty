@@ -1,0 +1,575 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% ITEC Thesis Style
+%
+% Main Author: Matthias Ohlenroth 07/16/02
+% Extended by: Klaus Leopold
+% Extended by: Mathias Lux
+% Extended by: Thomas FRANK (maketitleDiplNew 
+%                - new title page layout according to Studienabteilung template)
+%                - removed \titlepage bug in preface environment
+%
+% Most of this is based on work done by S. Podlipnig and
+% H. Kosch
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{itecthesis}[2002/07/17 ITEC Thesis Style V1.1]
+\typeout{ITEC Thesis Style V1.1 - M. Ohlenroth, extended by K. Leopold and Mathias Lux}
+
+\DeclareOption{phd}{\AtEndOfPackage{\@phdthesis}}
+\DeclareOption{master}{\AtEndOfPackage{\@masterthesis}}
+\ExecuteOptions{master}
+\ProcessOptions
+
+\RequirePackage{ifthen}
+\RequirePackage[pdftex]{graphicx}
+%\RequirePackage{graphicx}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{float}
+\RequirePackage{subfigure}
+\RequirePackage[a4paper]{geometry}
+\RequirePackage{rotating}
+\RequirePackage{fancyhdr}
+\RequirePackage{makeidx}
+%\RequirePackage{programs}
+\RequirePackage{array}
+%\RequirePackage[dvips]{color}
+\RequirePackage{color}
+%\RequirePackage[dvips]{changebar}
+\RequirePackage{changebar}
+\RequirePackage{fontenc}
+\RequirePackage{multicol}
+\RequirePackage{fancyvrb}
+
+\usepackage[T1]{fontenc}
+%\usepackage{times}
+
+%
+% kl: some font stuff here
+%
+%\renewcommand{\sfdefault}{pjn}
+%\renewcommand{\rmdefault}{pjn}
+
+%
+% set paper geometry
+%
+%\geometry{a4paper,height=25.2cm,top=1.7cm,includehead,hdivide={3cm,15.5cm,}}
+%\geometry{a4paper,height=23.5cm,top=2.3cm,includehead,hdivide={3cm,14.5cm,}}
+\newlength{\cfigurewidth}
+\setlength{\cfigurewidth}{12.5cm}
+\def\spacing{1.15}
+\renewcommand{\baselinestretch}{\spacing}
+
+
+%
+% set page style
+%
+\pagestyle{fancyplain}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\rhead[\fancyplain{}{\slshape \leftmark}]{\fancyplain{}%
+  {\slshape \thepage}}
+\chead{}
+\lhead[\fancyplain{}{\slshape \thepage}]{\fancyplain{}%
+  {\slshape \rightmark}}
+\cfoot{}
+\rfoot{}
+\lfoot{}
+% unterste Zeile aller Seiten auf gleicher Hoehe (ungetestet)
+\flushbottom
+
+%
+% some definitions
+%
+
+% macro to write function names etc. (code)
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\bs}{\symbol{�134}}% print backslash
+
+\newcommand{\clearemptydoublepage}{\newpage{\pagestyle{empty}\cleardoublepage}}
+\setcounter{tocdepth}{4} 
+\floatplacement{figure}{htb}
+\def\date#1#2{\gdef\@date{#1 #2}\gdef\@Xmonth{#1}\gdef\@Xyear{#2}\gdef\thedate{#1 #2}}
+\def\isection#1{\chapter{#1}}
+\def\isubsection#1{\section{#1}}
+\def\isubsubsection#1{\subsection{#1}}
+\def\isubsubsubsection#1{\subsubsection{#1}}
+
+%
+% color macros
+%
+% koi \outerbarstrue
+\def\prel#1{{\cbstart\color[gray]{0.4}#1\cbend}}
+\def\prelstart{\cbstart\color[gray]{0.4}}
+\def\prelend{\color{black}\cbend}
+\def\hint#1{{\cbstart\color[gray]{0.6}#1\cbend}}
+\def\hintstart{\cbstart\color[gray]{0.6}}
+\def\hintend{\color{black}\cbend}
+\def\old#1{{\cbstart\color[gray]{0.7}#1\cbend}}
+\def\oldstart{\cbstart\color[gray]{0.7}}
+\def\oldend{\color{black}\cbend}
+\def\oldold#1{{\cbstart\color[gray]{0.8}#1\cbend}}
+\def\oldoldstart{\cbstart\color[gray]{0.8}}
+\def\oldoldend{\color{black}\cbend}
+% to be continued...
+\def\tbc#1{{\cbstart#1\cbend}}
+\def\tbcstart{\cbstart}
+\def\tbcend{\color{black}\cbend}
+
+
+
+%
+% titlepage for phd
+%
+
+\def\begutachterA#1{\gdef\@begutachterA{#1}}
+\def\begutachterB#1{\gdef\@begutachterB{#1}}
+\def\begutachterC#1{\gdef\@begutachterC{#1}}
+\begutachterA{}\begutachterB{}\begutachterC{}
+\newcommand\maketitleDissA{\begin{titlepage}%
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let\footnote\thanks
+  \vfil
+  \pagestyle{empty}
+  \begin{center}%
+    \vspace{30mm}{\Large\@author\par}
+    \vspace{14mm}{\Huge\bf\@title\par}
+    \vspace{19mm}{\LARGE DISSERTATION\par}
+    \vspace{10mm}{\Large Zur Erlangung des akademischen Grades\\
+		Doktor der technischen Wissenschaften\par}
+    \vspace{25mm}{\Large Studium der Informatik\par}
+    \vspace{21mm}{\Large Universit\"at Klagenfurt\\
+		Fakult\"at f\"ur Technische Wissenschaften\par}
+  \end{center}
+  \vspace{20mm}
+  {\Large 1. Begutachter: \@begutachterA\\}
+  {\Large 2. Begutachter: \@begutachterB\\}
+  \ifthenelse{\equal{}{\@begutachterC}}{}{\Large 3. Begutachter: \@begutachterC\\}
+  {\Large Institut f\"ur Informationstechnologie\par}
+  \vspace{10mm}
+  \begin{center}%
+      \textsl{Copyright \@Xyear\ by \@author.}
+  \end{center}
+  \vspace{10mm}\hfill{\Large\@date}
+  \vfil\null
+  \cleardoublepage
+  \end{titlepage}%
+  \setcounter{footnote}{0}%
+  \global\let\thanks\relax
+  \global\let\maketitle\relax
+  \global\let\@thanks\@empty
+  \global\let\@author\@empty
+  \global\let\@date\@empty
+  \global\let\@title\@empty
+  \global\let\title\relax
+  \global\let\author\relax
+  \global\let\date\relax
+  \global\let\and\relax
+  \pagenumbering{roman}
+}
+\newcommand\maketitleDissB{\begin{titlepage}%
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let\footnote\thanks
+  \vfil
+  \pagestyle{empty}
+  \begin{center}%
+    %\vspace*{10mm}
+    \rule{\linewidth}{1mm}
+    \begin{flushright}
+	\Huge\bf\@title\par
+	\vspace{8mm}
+	\LARGE \@author
+    \end{flushright}	
+    \rule{\linewidth}{1mm}\par
+    \vspace*{19mm}{\LARGE DISSERTATION\par}
+    \vspace{15mm}{\Large Zur Erlangung des akademischen Grades\\
+		Doktor der technischen Wissenschaften\par}
+    \vspace{20mm}{\Large Studium der Informatik\par}
+    \vspace{21mm}{\Large Universit\"at Klagenfurt\\
+		Fakult\"at f\"ur Technische Wissenschaften\par}
+  \end{center}
+  \vspace{20mm}
+  {\Large 1. Begutachter: \@begutachterA\\}
+  {\Large 2. Begutachter: \@begutachterB\\}
+  \ifthenelse{\equal{}{\@begutachterC}}{}{\Large 3. Begutachter: \@begutachterC\\}
+  {\Large Institut f\"ur Informationstechnologie\par}
+  \vspace{10mm}
+  \begin{center}%
+      \textsl{Copyright \@Xyear\ by \@author.}
+  \end{center}
+%  \vspace{10mm}\hfill{\Large\@date}
+  \vfil\null
+  \cleardoublepage
+  \end{titlepage}%
+  \setcounter{footnote}{0}%
+  \global\let\thanks\relax
+  \global\let\maketitle\relax
+  \global\let\@thanks\@empty
+  \global\let\@author\@empty
+  \global\let\@date\@empty
+  \global\let\@title\@empty
+  \global\let\title\relax
+  \global\let\author\relax
+  \global\let\date\relax
+  \global\let\and\relax
+  \pagenumbering{roman}
+}
+
+\newcommand{\@phdthesis}{
+	\let\maketitle\maketitleDissB
+}
+
+
+%
+% titlepage for master
+%
+
+\def\eingereichtbei#1{\gdef\@eingereichtbei{#1}}
+\def\akgrad#1{\gdef\@akgrad{#1}}
+\def\finaldate{Dezember 2015}
+
+\eingereichtbei{Assoc.-Prof. Dr. Dipl.-Ing. Klaus Schöffmann}
+\akgrad{Magister der Sozial- und Wirtschaftswissenschaften}
+
+\newcommand{\maketitleDipl}{\begin{titlepage}%
+	\let\footnotesize\small
+	\let\footnoterule\relax
+	\let\footnote\thanks
+	\vfil
+	\pagestyle{empty}
+%	\begin{flushright}
+%		Institut fuer Informationstechnologie
+%	\end{flushright}
+   \begin{figure}[ht]	
+		\raggedleft
+   	\includegraphics[width=4cm]{./images/AAU_Black_Institut_Infotech_english_Pfade}
+  	\end{figure}
+	\begin{flushright}
+		\vspace{10mm}
+		\hrule
+		\vspace{1mm}{\Huge\bf\@title\par}
+		\vspace{5mm}{\Large\@author\par}
+		\vspace{2mm}
+		\hrule
+	\end{flushright}
+	\begin{center}	
+		\vspace{20mm}{\LARGE MAGISTERARBEIT\par}
+		\vspace{10mm}{\Large Zur Erlangung des akademischen Grades\\ \@akgrad \par}
+		\vspace{21mm}{\Large Institut f\"ur Informationstechnologie\par}
+		\vspace{1mm}{\Large Universit\"at Klagenfurt\par}
+		\vspace{42mm}{\large Eingereicht bei \@eingereichtbei}
+	\end{center}
+  \vfil\null
+  \cleardoublepage
+\end{titlepage}
+  \setcounter{footnote}{0}%
+  \global\let\thanks\relax
+  \global\let\maketitle\relax
+  \global\let\@thanks\@empty
+  \global\let\@author\@empty
+  \global\let\@date\@empty
+  \global\let\@title\@empty
+  \global\let\title\relax
+  \global\let\author\relax
+  \global\let\date\relax
+  \global\let\and\relax
+  \pagenumbering{roman}
+}
+
+\newcommand{\maketitleDiplNew}{\begin{titlepage}%
+	\let\footnotesize\small
+	\let\footnoterule\relax
+	\let\footnote\thanks
+	\vfil
+	\pagestyle{empty}
+%	\begin{flushright}
+%		Institut fuer Informationstechnologie
+%	\end{flushright}
+   \begin{figure}[ht]	
+		%\raggedleft
+			\begin{center}	
+		   	\includegraphics[width=6cm]{./images/AAU_Black_Institut_Infotech_english_Pfade}
+			\end{center}
+  	\end{figure}
+	\begin{center}
+		\hrule
+		\vspace{3mm}{\Large\@author\par}
+		\vspace{2mm}{\Huge\bf\@title\par}
+		\vspace{2mm}
+		\hrule
+		\vspace{15mm}{\LARGE MAGISTERARBEIT\par}
+		\vspace{5mm}{\Large zur Erlangung des akademischen Grades\\ \@akgrad \par}
+		\vspace{10mm}{\Large Studium\\ INFORMATIONSMANAGEMENT\par}
+	  \vspace{2mm}
+		\vspace{10mm}{\Large Alpen-Adria-Universit\"at Klagenfurt\\}
+		{\Large Fakult\"at f\"ur Technische Wissenschaften\par}
+	\end{center}
+	\begin{flushleft}	
+		\vspace{10mm}{\large Begutachter: \\\@eingereichtbei\\Institut f\"ur Informationstechnologie}
+	\end{flushleft}
+	\begin{flushright}	
+		{\large \finaldate}
+	\end{flushright}
+  \vfil\null
+  \pagenumbering{roman}
+  \cleardoublepage
+\end{titlepage}
+  \setcounter{footnote}{0}%
+  \global\let\thanks\relax
+  \global\let\maketitle\relax
+  \global\let\@thanks\@empty
+  \global\let\@author\@empty
+  \global\let\@date\@empty
+  \global\let\@title\@empty
+  \global\let\title\relax
+  \global\let\author\relax
+  \global\let\date\relax
+  \global\let\and\relax
+}
+
+\newcommand{\@masterthesis}{
+	\let\maketitle\maketitleDiplNew
+}
+
+
+%
+% Erklaerung, Danksagung etc.
+%
+\newenvironment{preface}[1]{
+    \pagestyle{empty}
+    \parindent0em
+    %\titlepage - here was the bug
+    \@beginparpenalty\@lowpenalty
+    \begin{center}%
+        \large\bfseries #1
+        \@endparpenalty\@M
+    \end{center}}%
+    {\par\vfil\null\cleardoublepage\endtitlepage}
+
+\renewenvironment{abstract}{
+    \begin{preface}{\abstractname}}{
+    \end{preface}}
+
+\def\prefacesection#1{%
+        \chapter*{#1}
+        \addcontentsline{toc}{chapter}{#1}}
+
+%
+% everything before the text
+%
+\def\afterpreface{
+        \setcounter{tocdepth}{2}
+        \tableofcontents
+        \clearemptydoublepage
+        %\listoffigures
+        %\clearemptydoublepage
+        %\listoftables
+        %\clearemptydoublepage
+        \pagenumbering{arabic}
+	\pagestyle{fancyplain}
+        \setcounter{page}{1}}
+        
+%new commands by TF!!!!!!!!!!!
+\newcommand{\cs}[1]{\fcolorbox{yellow}{yellow}{#1}}	
+\newcommand{\cl}[1]{\fcolorbox{yellow}{yellow}{\parbox{\textwidth}{#1}}}	
+\newcommand{\en}[1]{\textit{#1}}	
+\newcommand{\blank}[1]{\textit{#1}}	
+\newcommand{\mybox}[1]{\noindent\fbox{\parbox{\textwidth}{#1}}}
+\newcommand{\myline}{
+	\setlength{\unitlength}{\textwidth}
+	\noindent\begin{picture}(1,0)
+	\put(0,0){\line(1,0){1}}
+	\end{picture}
+}
+\definecolor{Gray}{gray}{0.5}
+%end new commands by TF!!!!!!!!!!!
+
+%
+% include figures
+%
+% input: file name, caption, label
+%
+\def\cfigure#1#2#3{%
+  \begin{figure}[htb]
+    \begin{center}
+      \includegraphics[keepaspectratio]{#1}
+      \caption{#2}\label{#3}
+    \end{center}
+  \end{figure}}
+
+\def\cfigurew#1#2#3{%
+  \begin{figure}[htb]
+    \begin{center}
+      \includegraphics[keepaspectratio,width=\cfigurewidth]{#1}
+      \caption{#2}\label{#3}
+    \end{center}
+  \end{figure}}
+
+\def\cfigureext#1#2#3#4{%
+  \begin{figure}[htb]
+    \begin{center}
+      \includegraphics[keepaspectratio,#4]{#1}
+      \caption{#2}\label{#3}
+    \end{center}
+  \end{figure}}
+
+%
+% table with caption
+%
+\def\ctable#1#2#3#4{%
+  \begin{table}
+      \begin{center}\begin{tabular}{#1}
+          #2
+      \end{tabular}\end{center}
+      \caption{#3}\label{#4}
+  \end{table}}
+
+%
+% abc list
+%
+
+\newcounter{abc@listcntr}
+\newenvironment{abc}%
+    {\begin{list}{\alph{abc@listcntr})}%
+           {\usecounter{abc@listcntr} \topsep=2pt \partopsep=0pt%
+            \leftmargin=17.5pt \itemsep=2pt \parsep=0pt \parskip=0pt}}%
+    {\end{list}}
+
+%
+% Index stuff
+%
+\newcommand{\idx}[1]{#1\index{#1}} 	  	 % normal index entry
+\newcommand{\Idx}[1]{#1\index{#1|textbf}}	 % preferred index entry
+\newcommand{\idxx}[2]{#1\index{#2!#1}}		 % subindex
+\newcommand{\Idxx}[2]{#1\index{#2!#1|textbf}}	 % subindex
+\newcommand{\idxxx}[3]{#1\index{#2!#3!#1}}	 % subsubindex
+\newcommand{\Idxxx}[3]{#1\index{#2!#3!#1|textbf}}% subsubindex
+\newcommand{\idxtt}[1]{\texttt{#1}\index{#1@\texttt{#1}}} % tt index entry
+\newcommand{\icode}[1]{\code{#1}\index{#1@\code{#1}}}% code index entry
+% word and index word are different:
+\newcommand{\idxe}[2]{#1\index{#2}} 	  	 % normal index entry
+\newcommand{\Idxe}[2]{#1\index{#2|textbf}}	 % preferred index entry
+\newcommand{\idxex}[3]{#1\index{#2!#3}}		 % subindex
+\newcommand{\Idxex}[3]{#1\index{#2!#3|textbf}}	 % subindex
+\newcommand{\idxexx}[4]{#1\index{#2!#3!#4}}	 % subsubindex
+\newcommand{\Idxexx}[4]{#1\index{#2!#3!#4|textbf}}% subsubindex
+\newcommand{\idxett}[2]{\texttt{#1}\index{#2@\texttt{#2}}} % tt index entry
+\newcommand{\iecode}[2]{\code{#1}\index{#2@\code{#2}}}% code index entry
+% (re)define index commands
+% this requires itecthesis.ist and further manipulation
+% of the resulting *.ind file (all \idxdl lines must have '}' appended)
+\renewcommand\@idxitem{\par\hangindent 20\p@}
+\newlength{\idx@width}
+\newcommand{\idx@psectlen}{16\p@}
+\newcommand{\idxdl}[3]{%
+    \def\idx@dot{.}
+    \vskip \z@ \@plus.2\p@
+    {\leftskip #1\relax \rightskip \idx@psectlen \@plus 10\p@ \parfillskip -\rightskip
+     \parindent #1\relax\@afterindenttrue
+     \interlinepenalty\@M
+     \settowidth{\idx@width}{\normalfont\normalcolor#3\hspace*{2pt}}
+     \ifthenelse{\lengthtest{\idx@width < \idx@psectlen}}%
+	{\setlength{\idx@width}{\idx@psectlen}}{}
+     \ifthenelse{\equal{#3}{}}%
+	{\def\idx@dot{}}{}
+     \leavevmode
+     \@tempdima 20\p@\relax
+     \advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+     {\hspace{0pt}#2}\nobreak
+     \leaders\hbox{$\m@th
+        \mkern \@dotsep mu\hbox{\tiny\idx@dot}\mkern \@dotsep
+        mu$}\hfill
+     \nobreak
+     \hb@xt@\idx@width{\hfil\normalfont \normalcolor #3}%
+%     {\hfil\normalfont \normalcolor #3}%
+     \par
+    }
+}
+
+\newcommand{\threecolindex}{
+\renewenvironment{theindex}
+               {\@mkboth{\MakeUppercase\indexname}%
+                        {\MakeUppercase\indexname}%
+                \thispagestyle{plain}\parindent\z@
+                \parskip\z@ \@plus .3\p@\relax
+                \let\item\@idxitem
+		\columnsep25pt
+		\begin{multicols}{3}[\@makeschapterhead{\indexname}]}
+               {\end{multicols}}
+}
+
+%
+% set chapter heading style
+%
+
+% copy of chapitre.sty from gavoille@ens-lyon.fr - bug fixes by M. Ohlenroth
+%               _______________________________________
+% CHAPITRE  |
+%          /|   Style Chapitre (gavoille@ens-lyon.fr)
+%           |
+%           |
+%          ---
+
+% \chaptername = Chapter/Chapitre
+% \appendixname = Appendix/Annexe
+% \@chapapp : nom du chapitre = \chaptername ou \appendixname
+% \thechapter : num�ro du chapitre = 1,2 ... ou A,B, ...
+
+\newfont{\chapfonte}{cmr10 scaled 9000}
+% La taille (=hauteur) de la fonte est 10pt * scaled / 1000
+% Remarque : \magstep<n> vaut 1000*(1.2)^n
+% Donc \magstep1 multiplie la fonte par 1.2, ie l'augmente de 20%
+
+\def\haut{20mm}         % Hauteur des chiffres, � ajuster avec 'scaled'
+\def\decal{1.75ex}      % Pour aligner la ligne avec le haut de CHAPITRE
+
+\newlength{\lgnamechap}
+\newlength{\lgnumchap}
+\newlength{\lgall}
+
+\def\@makechapterhead#1{%
+        \thispagestyle{empty}% pas de num�ro de page
+        \def\myboxtwo{\mbox{\chapfonte{\thechapter}}}
+	\ifthenelse{\equal{\@chapapp}{\appendixname}}{
+		\def\myboxone{\Large\sf\uppercase\expandafter{\appendixname}}}{
+		\def\myboxone{\Large\sf\uppercase\expandafter{\chaptername}}}
+        \settowidth{\lgnamechap}{\myboxone}
+        \settowidth{\lgnumchap}{\myboxtwo}
+        \addtolength{\lgnumchap}{6mm}
+        \setlength{\lgall}{\textwidth}
+        \addtolength{\lgall}{-\lgnamechap}
+        \addtolength{\lgall}{-\lgnumchap}
+        \addtolength{\lgall}{-2mm}
+        {\parindent\z@
+        \parbox[t]{\lgnamechap}{\myboxone}
+        \raisebox{\decal}{%
+        \raisebox{-\haut}{\parbox[t]{\lgnumchap}{\hspace{2mm}\myboxtwo}}}
+        \raisebox{\decal}{\parbox[t]{\lgall}{\rule{\lgall}{1mm}\\\Huge\bf{#1}}}
+        \par
+        \nobreak
+        \vskip 100\p@
+        }
+}
+
+%
+% redefine chapter*: change hight at which title starts
+%
+\def\@makeschapterhead#1{%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \bfseries  #1\par\nobreak
+    \vskip 40\p@
+  }}
+
+
+
+\endinput
+

@@ -1,0 +1,464 @@
+\begin{thebibliography}{10}
+
+\bibitem{SmartphoneBooms}
+Statista GmbH.
+\newblock Die opfer des smartphone-booms.
+\newblock
+  \url{http://de.statista.com/infografik/1958/geraete-absatz-im-bereich-consumer-electronics/}.
+\newblock Eingesehen am 02.08.2015.
+
+\bibitem{AbsatzvonTablets}
+Statista GmbH.
+\newblock Absatz von tablets weltweit vom 2. quartal 2010 bis zum 3. quartal
+  2015.
+\newblock
+  \url{http://de.statista.com/statistik/daten/studie/181569/umfrage/weltweiter-absatz-von-media-tablets-nach-quartalen/}.
+\newblock Eingesehen am 27.08.2015.
+
+\bibitem{reveiu2007using}
+Adriana Reveiu, Marian Dardala, and Felix Furtuna.
+\newblock Using content-based multimedia data retrieval for multimedia content
+  adaptation.
+\newblock In {\em Human-Computer Interaction. HCI Intelligent Multimodal
+  Interaction Environments}, pages 486--492. Springer, 2007.
+
+\bibitem{YovistoHomepage}
+Yovisto.
+\newblock Yovisto homepage.
+\newblock \url{http://www.yovisto.com}.
+\newblock Eingesehen am 28.10.2015.
+
+\bibitem{schoeffmann2010video}
+Klaus Schoeffmann, Mario Taschwer, and Laszlo Boeszoermenyi.
+\newblock The video explorer: a tool for navigation and searching within a
+  single video based on fast content analysis.
+\newblock In {\em Proceedings of the first annual ACM SIGMM conference on
+  Multimedia systems}, pages 247--258. ACM, 2010.
+
+\bibitem{del2010instant}
+Manfred Del~Fabro, Klaus Schoeffmann, and Laszlo Boeszoermenyi.
+\newblock {\em Instant video browsing: a tool for fast non-sequential
+  hierarchical video browsing}.
+\newblock Springer, 2010.
+
+\bibitem{hudelist2013mobile}
+Marco~A Hudelist, Klaus Schoeffmann, and Laszlo Boeszoermenyi.
+\newblock Mobile video browsing with the thumbbrowser.
+\newblock In {\em Proceedings of the 21st ACM international conference on
+  Multimedia}, pages 405--406. ACM, 2013.
+
+\bibitem{karrer2009pocketdragon}
+Thorsten Karrer, Moritz Wittenhagen, and Jan Borchers.
+\newblock Pocketdragon: a direct manipulation video navigation interface for
+  mobile devices.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, page~47. ACM,
+  2009.
+
+\bibitem{hudelist2015improving}
+Marco~A Hudelist, Klaus Schoeffmann, and Qing Xu.
+\newblock Improving interactive known-item search in video with the keyframe
+  navigation tree.
+\newblock In {\em MultiMedia Modeling}, pages 306--317. Springer, 2015.
+
+\bibitem{hurst2007interactive}
+Wolfgang Huerst, Georg Goetz, and Martina Welte.
+\newblock Interactive video browsing on mobile devices.
+\newblock In {\em Proceedings of the 15th international conference on
+  Multimedia}, pages 247--256. ACM, 2007.
+
+\bibitem{huber2010wipe}
+Jochen Huber, Juergenrgen Steimle, Roman Lissermann, Simon Olberding, and Max
+  Muehlhaeuser.
+\newblock Wipe'n'watch: spatial interaction techniques for interrelated video
+  collections on mobile devices.
+\newblock In {\em Proceedings of the 24th BCS Interaction Specialist Group
+  Conference}, pages 423--427. British Computer Society, 2010.
+
+\bibitem{schoeffmann2014video2}
+Klaus Schoeffmann, Kevin Chromik, and Laszlo Boeszoermenyi.
+\newblock Video navigation on tablets with multi-touch gestures.
+\newblock In {\em Multimedia and Expo Workshops (ICMEW), 2014 IEEE
+  International Conference on}, pages 1--6. IEEE, 2014.
+
+\bibitem{hurst2008interfaces}
+Wolfgang Huerst and Konrad Meier.
+\newblock Interfaces for timeline-based mobile video browsing.
+\newblock In {\em Proceedings of the 16th ACM international conference on
+  Multimedia}, pages 469--478. ACM, 2008.
+
+\bibitem{harris2014beginning}
+Nick Harris.
+\newblock {\em Beginning IOS Programming: Building and Deploying IOS
+  Applications}.
+\newblock John Wiley \& Sons, 2014.
+
+\bibitem{KeyValueObserving}
+Apple iOS Developer~Library.
+\newblock Key-value observing.
+\newblock
+  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{AboutAVFoundation}
+Apple iOS Developer~Library.
+\newblock About avfoundation.
+\newblock
+  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{AVFoundationPlayback}
+Apple iOS Developer~Library.
+\newblock Avfoundation playback.
+\newblock
+  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/02_Playback.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{UIResponderChain}
+Apple iOS Developer~Library.
+\newblock Uiresponder chain.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/event_delivery_responder_chain/event_delivery_responder_chain.html}.
+\newblock Eingesehen am 05.10.2015.
+
+\bibitem{wu2005guidelines}
+Huahui Wu, Mark Claypool, and Robert Kinicki.
+\newblock Guidelines for selecting practical mpeg group of pictures.
+\newblock 2005.
+
+\bibitem{schoeffmann2014stack}
+Klaus Schoeffmann.
+\newblock The stack-of-rings interface for large-scale image browsing on mobile
+  touch devices.
+\newblock In {\em Proceedings of the ACM International Conference on
+  Multimedia}, pages 1097--1100. ACM, 2014.
+
+\bibitem{furht2009handbook}
+Borivoje Furht.
+\newblock {\em Handbook of multimedia for digital entertainment and arts}.
+\newblock Springer, 2009.
+
+\bibitem{zhou2011taming}
+Yajin Zhou, Xinwen Zhang, Xuxian Jiang, and Vincent~W Freeh.
+\newblock Taming information-stealing smartphone applications (on android).
+\newblock In {\em Trust and Trustworthy Computing}, pages 93--107. Springer,
+  2011.
+
+\bibitem{IDCWorldwideQuarterlyTabletTracker}
+International~Data Corporation.
+\newblock Idc worldwide quarterly tablet tracker.
+\newblock \url{http://www.idc.com/getdoc.jsp?containerId=prUS25989015}.
+\newblock Eingesehen am 29.10.2015.
+
+\bibitem{fischer2012potential}
+Nikolaus Fischer and Stefan Smolnik.
+\newblock Das potential von tablets in der universitaeren lehre.
+\newblock In {\em DeLFI}, pages 237--242, 2012.
+
+\bibitem{steinmetz2013multimedia}
+Ralf Steinmetz.
+\newblock {\em Multimedia-Technologie: Grundlagen, Komponenten und Systeme}.
+\newblock Springer-Verlag, 2013.
+
+\bibitem{kallinen2011effects}
+Kari Kallinen, Jan Kallenbach, and Niklas Ravaja.
+\newblock The effects of content type and presentation style on user
+  experiences of multimedia content on a tablet pc.
+\newblock In {\em Human-Computer Interaction. Users and Applications}, pages
+  466--475. Springer, 2011.
+
+\bibitem{o2007consuming}
+Kenton O'Hara, April~Slayden Mitchell, and Alex Vorbau.
+\newblock Consuming video on mobile devices.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 857--866. ACM, 2007.
+
+\bibitem{sunqoe}
+Lingfen Sun and Ali Alfayly.
+\newblock Qoe-driven management schemes for multimedia services.
+\newblock {\em E-LETTER}, 2015.
+
+\bibitem{schoeffmann20143}
+Klaus Schoeffmann, David Ahlstrom, Marco Hudelist, et~al.
+\newblock 3-d interfaces to improve the performance of visual known-item
+  search.
+\newblock {\em Multimedia, IEEE Transactions on}, 16(7):1942--1951, 2014.
+
+\bibitem{gaiser2008good}
+Birgit Gaiser.
+\newblock {\em Good tags-bad tags}, volume~47.
+\newblock Waxmann Verlag, 2008.
+
+\bibitem{juengling2014videozoom}
+Kai Juengling, Scott Blunsden, and Cristina Versino.
+\newblock Videozoom: An interactive system for video summarization, browsing
+  and retrieval.
+\newblock In {\em Advances in Visual Computing}, pages 323--332. Springer,
+  2014.
+
+\bibitem{fan2003visual}
+Xin Fan, Xing Xie, Wei-Ying Ma, Hong-Jiang Zhang, and He-Qin Zhou.
+\newblock Visual attention based image browsing on mobile devices.
+\newblock In {\em Multimedia and Expo, 2003. ICME'03. Proceedings. 2003
+  International Conference on}, volume~1, pages I--53. IEEE, 2003.
+
+\bibitem{he2007supporting}
+Yuan He and Yunhao Liu.
+\newblock Supporting vcr in peer-to-peer video-on-demand.
+\newblock In {\em Network Protocols, 2007. ICNP 2007. IEEE International
+  Conference on}, pages 328--329. IEEE, 2007.
+
+\bibitem{ghosh2012discovering}
+Joydeep Ghosh, Yong~Jae Lee, and Kristen Grauman.
+\newblock Discovering important people and objects for egocentric video
+  summarization.
+\newblock In {\em 2012 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1346--1353. IEEE, 2012.
+
+\bibitem{ngo2005video}
+Chong-Wah Ngo, Yu-Fei Ma, and Hong-Jiang Zhang.
+\newblock Video summarization and scene detection by graph modeling.
+\newblock {\em Circuits and Systems for Video Technology, IEEE Transactions
+  on}, 15(2):296--305, 2005.
+
+\bibitem{vasconcelos1998bayesian}
+Nuno Vasconcelos and Andrew Lippman.
+\newblock Bayesian modeling of video editing and structure: Semantic features
+  for video summarization and browsing.
+\newblock In {\em Image Processing, 1998. ICIP 98. Proceedings. 1998
+  International Conference on}, pages 153--157. IEEE, 1998.
+
+\bibitem{muller2012demonstration}
+Christopher Mueller, Martin Smole, and Klaus Schoeffmann.
+\newblock A demonstration of a hierarchical multi-layout 3d video browser.
+\newblock In {\em Multimedia and Expo Workshops (ICMEW), 2012 IEEE
+  International Conference on}, pages 665--665. IEEE, 2012.
+
+\bibitem{schoeffmann2014video}
+Klaus Schoeffmann, David Ahlstroem, Werner Bailer, Claudiu Cobarzan, Frank
+  Hopfgartner, Kevin McGuinness, Cathal Gurrin, Christian Frisson, Duy-Dinh Le,
+  Manfred Del~Fabro, et~al.
+\newblock The video browser showdown: a live evaluation of interactive video
+  search tools.
+\newblock {\em International Journal of Multimedia Information Retrieval},
+  3(2):113--127, 2014.
+
+\bibitem{divakaran2005augmenting}
+Ajay Divakaran, Clifton Forlines, Tom Lanning, Sam Shipman, and Kent
+  Wittenburg.
+\newblock Augmenting fast-forward and rewind for personal digital video
+  recorders.
+\newblock In {\em Consumer Electronics, 2005. ICCE. 2005 Digest of Technical
+  Papers. International Conference on}, pages 43--44. IEEE, 2005.
+
+\bibitem{hurst2005interactive}
+Wolfgang Huerst and Philipp Jarvers.
+\newblock Interactive, dynamic video browsing with the zoomslider interface.
+\newblock In {\em Multimedia and Expo, 2005. ICME 2005. IEEE International
+  Conference on}, pages 4--pp. IEEE, 2005.
+
+\bibitem{schoeffmann2014user}
+Klaus Schoeffmann.
+\newblock A user-centric media retrieval competition: The video browser
+  showdown 2012-2014.
+\newblock {\em MultiMedia, IEEE}, 21(4):8--13, 2014.
+
+\bibitem{over2005trecvid}
+Paul Over, Tzveta Ianeva, Wessel Kraaij, and Alan~F Smeaton.
+\newblock Trecvid 2005 - an overview.
+\newblock 2005.
+
+\bibitem{over2011trecvid}
+Paul Over, George~M Awad, Jon Fiscus, Brian Antonishek, Martial Michel, Alan~F
+  Smeaton, Wessel Kraaij, and Georges Quenot.
+\newblock Trecvid 2010 - an overview of the goals, tasks, data, evaluation
+  mechanisms, and metrics.
+\newblock 2011.
+
+\bibitem{niaz2014eurecom}
+Usman Niaz, Miriam Redi, Claudiu Tanase, and Bernard Merialdo.
+\newblock Eurecom at trecvid 2014: The semantic indexing task.
+\newblock 2014.
+
+\bibitem{shneiderman1992designing}
+Ben Shneiderman.
+\newblock {\em Designing the user interface: strategies for effective
+  human-computer interaction}, volume~3.
+\newblock Addison-Wesley Reading, MA, 1992.
+
+\bibitem{gong2004guidelines}
+Jun Gong and Peter Tarasewich.
+\newblock Guidelines for handheld mobile device interface design.
+\newblock In {\em Proceedings of DSI 2004 Annual Meeting}, pages 3751--3756.
+  Citeseer, 2004.
+
+\bibitem{benko2006precise}
+Hrvoje Benko, Andrew~D Wilson, and Patrick Baudisch.
+\newblock Precise selection techniques for multi-touch screens.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  computing systems}, pages 1263--1272. ACM, 2006.
+
+\bibitem{albinsson2003high}
+Par-Anders Albinsson and Shumin Zhai.
+\newblock High precision touch screen interaction.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 105--112. ACM, 2003.
+
+\bibitem{kane2008slide}
+Shaun~K Kane, Jeffrey~P Bigham, and Jacob~O Wobbrock.
+\newblock Slide rule: making mobile touch screens accessible to blind people
+  using multi-touch interaction techniques.
+\newblock In {\em Proceedings of the 10th international ACM SIGACCESS
+  conference on Computers and accessibility}, pages 73--80. ACM, 2008.
+
+\bibitem{laufs2013aufbau}
+Uwe Laufs and Christopher Ruff.
+\newblock Aufbau von multi-touch-systemen.
+\newblock In {\em Multi-Touch}, pages 145--152. Springer, 2013.
+
+\bibitem{huber2010toward}
+Jochen Huber, Juergen Steimle, and Max Muehlhaeuser.
+\newblock Toward more efficient user interfaces for mobile video browsing: an
+  in-depth exploration of the design space.
+\newblock In {\em Proceedings of the international conference on Multimedia},
+  pages 341--350. ACM, 2010.
+
+\bibitem{VideoLANVLCPlayerforiOS}
+VideoLAN Organization.
+\newblock Videolan vlc player for ios.
+\newblock \url{http://www.videolan.org/vlc/download-ios.html}.
+\newblock Eingesehen am 30.10.2015.
+
+\bibitem{YouTubeHomepage}
+LLC YouTube.
+\newblock Youtube homepage.
+\newblock \url{https://www.youtube.com}.
+\newblock Eingesehen am 30.10.2015.
+
+\bibitem{appsfuerios}
+Thomas Sillmann.
+\newblock {\em Apps fuer iOS 9 professionell entwickeln: Sauberen Code
+  schreiben mit Objective-C und Swift. Stabile Apps programmieren. Techniken
+  und Methoden von Grund auf verstehen}.
+\newblock Hanser, 2015.
+
+\bibitem{WorkingwithProtocols}
+Apple iOS Developer~Library.
+\newblock Working with protocols.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html}.
+\newblock Eingesehen am 02.10.2015.
+
+\bibitem{NSNotificationCenterClass}
+Apple iOS Developer~Library.
+\newblock Nsnotificationcenter class.
+\newblock
+  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSNotificationCenter_Class/}.
+\newblock Eingesehen am 02.10.2015.
+
+\bibitem{chung2011pro}
+Carlo Chung and James Bucanek.
+\newblock {\em Pro Objective-C Design Patterns for iOS}.
+\newblock Springer, 2011.
+
+\bibitem{learnios8}
+James Bucanek.
+\newblock {\em Learn iOS 8 App Development}.
+\newblock Apress, 2014.
+
+\bibitem{mccune2014learning}
+Bob McCune.
+\newblock {\em Learning AV Foundation: A Hands-on Guide to Mastering the AV
+  Foundation Framework}.
+\newblock Pearson Education, 2014.
+
+\bibitem{UIResponderClass}
+Apple iOS Developer~Library.
+\newblock Uiresponder class.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIResponder_Class/}.
+\newblock Eingesehen am 05.10.2015.
+
+\bibitem{UIGestureRecognizerClass}
+Apple iOS Developer~Library.
+\newblock Uigesturerecognizer class.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/}.
+\newblock Eingesehen am 05.10.2015.
+
+\bibitem{GithubLandingPage}
+Inc. Github.
+\newblock Github landing page.
+\newblock \url{https://github.com}.
+\newblock Eingesehen am 06.10.2015.
+
+\bibitem{FFmpegLandingPage}
+FFmpeg-Projekt.
+\newblock Ffmpeg landing page.
+\newblock \url{http://ffmpeg.org}.
+\newblock Eingesehen am 06.10.2015.
+
+\bibitem{granneman2010mac}
+Scott Granneman, Clay Andres, Douglas Pundick, Steve Anglin, Mark Beckner, Ewan
+  Buckingham, Gary Cornell, Jonathan Gennick, Jonathan Hassell, Michelle
+  Lowman, et~al.
+\newblock {\em Mac OS X Snow Leopard for Power Users}.
+\newblock Springer, 2010.
+
+\bibitem{le1991mpeg}
+Didier Le~Gall.
+\newblock Mpeg: A video compression standard for multimedia applications.
+\newblock {\em Communications of the ACM}, 34(4):46--58, 1991.
+
+\bibitem{MPMediaQueryClassReference}
+Apple iOS Developer~Library.
+\newblock Mpmediaquery classreference.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/MediaPlayer/Reference/MPMediaQuery_ClassReference/}.
+\newblock Eingesehen am 08.10.2015.
+
+\bibitem{StoryboardSegue}
+Apple iOS Developer~Library.
+\newblock Adding a segue between scenes in a storyboard.
+\newblock
+  \url{https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/Chapters/StoryboardSegue.html}.
+\newblock Eingesehen am 08.10.2015.
+
+\bibitem{UIViewControllerClass}
+Apple iOS Developer~Library.
+\newblock Uiviewcontroller class.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/}.
+\newblock Eingesehen am 08.10.2015.
+
+\bibitem{ASProgressPopUpViewRepository}
+Github alskipp.
+\newblock Asprogresspopupview repository.
+\newblock \url{https://github.com/alskipp/ASProgressPopUpView}.
+\newblock Eingesehen am 09.10.2015.
+
+\bibitem{NSTimerClass}
+Apple iOS Developer~Library.
+\newblock Nstimer class.
+\newblock
+  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSTimer_Class/}.
+\newblock Eingesehen am 09.10.2015.
+
+\bibitem{louis2007java}
+Dirk Louis and Peter Mueller.
+\newblock {\em Das Java 6 Codebook}.
+\newblock Pearson Deutschland GmbH, 2007.
+
+\bibitem{hart1988development}
+Sandra~G Hart and Lowell~E Staveland.
+\newblock Development of nasa-tlx (task load index): Results of empirical and
+  theoretical research.
+\newblock {\em Advances in psychology}, 52:139--183, 1988.
+
+\bibitem{rosner2006wilcoxon}
+Bernard Rosner, Robert~J Glynn, and Mei-Ling~T Lee.
+\newblock The wilcoxon signed rank test for paired comparisons of clustered
+  data.
+\newblock {\em Biometrics}, 62(1):185--192, 2006.
+
+\end{thebibliography}

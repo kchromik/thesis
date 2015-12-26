@@ -1,0 +1,47 @@
+\select@language {german}
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ziel der Arbeit}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Aufbau der Arbeit}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2}Motivation und Grundlagen}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Tablet-PCs und Smartphones am Massenmarkt}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Multimediale Inhalte}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Videokonsum auf mobilen Ger\IeC {\"a}ten}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Durchsuchbarkeit von Multimedia Dateien}{10}{section.2.4}
+\contentsline {chapter}{\numberline {3}Videobrowsing}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Navigationsunterst\IeC {\"u}tzung}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Klassische Navigation}{13}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Automatische Inhaltsanalyse}{15}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Alternative Inhaltsvisualisierung und Navigation}{18}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Videobrowser Evaluation}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Video Browser Showdown}{20}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}TREC Video Retrieval Evaluation}{21}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Navigation auf Tablets und Smartphones}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Multi-Touch Bildschirme und Gesten}{24}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Standardvideoplayer}{25}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{26}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Wischgestenbasierender Videoplayer}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spezifikation}{35}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Anforderungsanalyse}{35}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Navigationskonzept}{36}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Grafische Benutzeroberfl\IeC {\"a}che}{38}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Grundlagen der iOS Entwicklung}{40}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Model-View-Controller Konzept}{40}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Protokolle und Delegates}{41}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Observerpattern}{42}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}AVFoundation}{44}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Gesturerecognizer und UIResponder}{46}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Details zur Implementierung und Probleme}{47}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Hardware und Software}{48}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Probleme}{48}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Storyboard und Klassen}{50}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Umsetzung des Interaktionskonzepts}{54}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Logging}{59}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Benutzerstudie und Evaluation}{62}{chapter.5}
+\contentsline {section}{\numberline {5.1}Aufbau der Studie}{62}{section.5.1}
+\contentsline {section}{\numberline {5.2}Durchf\IeC {\"u}hrung}{64}{section.5.2}
+\contentsline {section}{\numberline {5.3}Evaluation}{66}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Zielsuche}{66}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Z\IeC {\"a}hlaufgaben}{69}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Benutzerbewertung im NASA TLX}{71}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Bevorzugter Videoplayer}{73}{subsection.5.3.4}
+\contentsline {chapter}{\numberline {6}Res\IeC {\"u}mee und Ausblick}{75}{chapter.6}
