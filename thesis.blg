@@ -9,43 +9,43 @@ Warning--empty journal in over2011trecvid
 Warning--empty journal in niaz2014eurecom
 You've used 73 entries,
             1791 wiz_defined-function locations,
-            815 strings with 16764 characters,
-and the built_in function-call counts, 17920 in all, are:
-= -- 1725
+            817 strings with 17237 characters,
+and the built_in function-call counts, 18128 in all, are:
+= -- 1753
 > -- 636
-< -- 31
+< -- 32
 + -- 247
 - -- 174
-* -- 835
-:= -- 2568
-add.period$ -- 267
+* -- 848
+:= -- 2588
+add.period$ -- 268
 call.type$ -- 73
-change.case$ -- 61
+change.case$ -- 62
 chr.to.int$ -- 0
 cite$ -- 77
-duplicate$ -- 907
-empty$ -- 1883
+duplicate$ -- 918
+empty$ -- 1902
 format.name$ -- 174
-if$ -- 4318
+if$ -- 4374
 int.to.chr$ -- 0
 int.to.str$ -- 73
-missing$ -- 64
+missing$ -- 63
 newline$ -- 389
 num.names$ -- 73
-pop$ -- 427
+pop$ -- 426
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 488
+skip$ -- 500
 stack$ -- 0
-substring$ -- 1003
-swap$ -- 333
-text.length$ -- 31
+substring$ -- 1035
+swap$ -- 343
+text.length$ -- 32
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 169
+while$ -- 172
 width$ -- 75
-write$ -- 814
+write$ -- 816
 (There were 4 warnings)
