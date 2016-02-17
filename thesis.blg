@@ -9,16 +9,16 @@ Warning--empty journal in over2011trecvid
 Warning--empty journal in niaz2014eurecom
 You've used 73 entries,
             1791 wiz_defined-function locations,
-            817 strings with 17235 characters,
-and the built_in function-call counts, 18128 in all, are:
-= -- 1753
+            824 strings with 17361 characters,
+and the built_in function-call counts, 18191 in all, are:
+= -- 1767
 > -- 636
 < -- 32
 + -- 247
 - -- 174
 * -- 848
-:= -- 2588
-add.period$ -- 268
+:= -- 2602
+add.period$ -- 275
 call.type$ -- 73
 change.case$ -- 62
 chr.to.int$ -- 0
@@ -26,13 +26,13 @@ cite$ -- 77
 duplicate$ -- 918
 empty$ -- 1902
 format.name$ -- 174
-if$ -- 4374
+if$ -- 4388
 int.to.chr$ -- 0
 int.to.str$ -- 73
 missing$ -- 63
-newline$ -- 389
+newline$ -- 396
 num.names$ -- 73
-pop$ -- 426
+pop$ -- 419
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
@@ -47,5 +47,5 @@ type$ -- 0
 warning$ -- 4
 while$ -- 172
 width$ -- 75
-write$ -- 816
+write$ -- 830
 (There were 4 warnings)

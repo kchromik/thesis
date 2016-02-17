@@ -65,7 +65,8 @@
   title =     {Pro Objective-C Design Patterns for iOS},
   publisher = {Springer},
   year =      {2011},
-  author =    {Chung, Carlo and Bucanek, James}
+  author =    {Chung, Carlo and Bucanek, James},
+  note =      {ISBN 9781430233305}
 }
 
 @InProceedings{del2010instant,
@@ -116,8 +117,9 @@
 @Book{furht2009handbook,
   title =     {Handbook of multimedia for digital entertainment and arts},
   publisher = {Springer},
-  year =      {2009},
-  author =    {Furht, Borivoje}
+  year =      {2010},
+  author =    {Furht, Borivoje},
+  note =      {ISBN 9780387890241}
 }
 
 @Book{gaiser2008good,
@@ -125,7 +127,8 @@
   publisher = {Waxmann Verlag},
   year =      {2008},
   author =    {Gaiser, Birgit},
-  volume =    {47}
+  volume =    {47},
+  note =      {ISBN 9783830920397}
 }
 
 @InProceedings{ghosh2012discovering,
@@ -167,7 +170,7 @@
   publisher = {John Wiley \& Sons},
   year =      {2014},
   author =    {Harris, Nick},
-  isbn =      {9781118841440}
+  note =      {ISBN 9781118841440}
 }
 
 @Article{hart1988development,
@@ -330,7 +333,8 @@
   title =     {Learn iOS 8 App Development},
   publisher = {Apress},
   year =      {2014},
-  author =    {Bucanek, James}
+  author =    {Bucanek, James},
+  note =      {ISBN 9781484202081}
 }
 
 @Book{louis2007java,
@@ -535,7 +539,8 @@
   title =     {Multimedia-Technologie: Grundlagen, Komponenten und Systeme},
   publisher = {Springer-Verlag},
   year =      {2013},
-  author =    {Steinmetz, Ralf}
+  author =    {Steinmetz, Ralf},
+  note =      {ISBN 9783642583230}
 }
 
 @Misc{StoryboardSegue,

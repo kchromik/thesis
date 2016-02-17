@@ -94,6 +94,7 @@ Nick Harris.
 \newblock {\em Beginning IOS Programming: Building and Deploying IOS
   Applications}.
 \newblock John Wiley \& Sons, 2014.
+\newblock ISBN 9781118841440.
 
 \bibitem{KeyValueObserving}
 Apple Inc.
@@ -138,7 +139,8 @@ Klaus Schoeffmann.
 \bibitem{furht2009handbook}
 Borivoje Furht.
 \newblock {\em Handbook of multimedia for digital entertainment and arts}.
-\newblock Springer, 2009.
+\newblock Springer, 2010.
+\newblock ISBN 9780387890241.
 
 \bibitem{zhou2011taming}
 Yajin Zhou, Xinwen Zhang, Xuxian Jiang, and Vincent~W Freeh.
@@ -161,6 +163,7 @@ Nikolaus Fischer and Stefan Smolnik.
 Ralf Steinmetz.
 \newblock {\em Multimedia-Technologie: Grundlagen, Komponenten und Systeme}.
 \newblock Springer-Verlag, 2013.
+\newblock ISBN 9783642583230.
 
 \bibitem{kallinen2011effects}
 Kari Kallinen, Jan Kallenbach, and Niklas Ravaja.
@@ -190,6 +193,7 @@ Klaus Schoeffmann, David Ahlstrom, Marco Hudelist, et~al.
 Birgit Gaiser.
 \newblock {\em Good tags-bad tags}, volume~47.
 \newblock Waxmann Verlag, 2008.
+\newblock ISBN 9783830920397.
 
 \bibitem{juengling2014videozoom}
 Kai Juengling, Scott Blunsden, and Cristina Versino.
@@ -362,17 +366,20 @@ Apple Inc.
 Carlo Chung and James Bucanek.
 \newblock {\em Pro Objective-C Design Patterns for iOS}.
 \newblock Springer, 2011.
+\newblock ISBN 9781430233305.
 
 \bibitem{learnios8}
 James Bucanek.
 \newblock {\em Learn iOS 8 App Development}.
 \newblock Apress, 2014.
+\newblock ISBN 9781484202081.
 
 \bibitem{mccune2014learning}
 Bob McCune.
 \newblock {\em Learning AV Foundation: A Hands-on Guide to Mastering the AV
   Foundation Framework}.
 \newblock Pearson Education, 2014.
+\newblock ISBN 9780133563825.
 
 \bibitem{UIResponderClass}
 Apple Inc.
