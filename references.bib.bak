@@ -166,7 +166,8 @@
   title =     {Beginning IOS Programming: Building and Deploying IOS Applications},
   publisher = {John Wiley \& Sons},
   year =      {2014},
-  author =    {Harris, Nick}
+  author =    {Harris, Nick},
+  isbn =      {9781118841440}
 }
 
 @Article{hart1988development,
@@ -623,7 +624,7 @@
 }
 
 @Misc{YouTubeHomepage,
-  author =       {YouTube, LLC},
+  author =       {YouTube LLC},
   title =        {YouTube Homepage},
   howpublished = {\url{https://www.youtube.com}},
   note =         {Eingesehen am 30.10.2015},
