@@ -35,6 +35,12 @@ Klaus Schoeffmann, Mario Taschwer, and Laszlo Boeszoermenyi.
 \newblock In {\em Proceedings of the first annual ACM SIGMM conference on
   Multimedia systems}, pages 247--258. ACM, 2010.
 
+\bibitem{friedland2009joke}
+Gerald Friedland, Luke Gottlieb, and Adam Janin.
+\newblock Joke-o-mat: browsing sitcoms punchline by punchline.
+\newblock In {\em Proceedings of the 17th ACM international conference on
+  Multimedia}, pages 1115--1116. ACM, 2009.
+
 \bibitem{del2010instant}
 Manfred Del~Fabro, Klaus Schoeffmann, and Laszlo B{\"o}sz{\"o}rmenyi.
 \newblock Instant video browsing: a tool for fast non-sequential hierarchical

@@ -348,7 +348,8 @@
   title =     {Learning AV Foundation: A Hands-on Guide to Mastering the AV Foundation Framework},
   publisher = {Pearson Education},
   year =      {2014},
-  author =    {McCune, Bob}
+  author =    {McCune, Bob},
+  note =      {ISBN 9780133563825}
 }
 
 @Misc{MPMediaQueryClassReference,
