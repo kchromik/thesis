@@ -7,45 +7,45 @@ Warning--empty journal in wu2005guidelines
 Warning--empty journal in over2005trecvid
 Warning--empty journal in over2011trecvid
 Warning--empty journal in niaz2014eurecom
-You've used 74 entries,
+You've used 75 entries,
             1791 wiz_defined-function locations,
-            829 strings with 17557 characters,
-and the built_in function-call counts, 18614 in all, are:
-= -- 1813
-> -- 647
-< -- 33
-+ -- 251
-- -- 177
-* -- 871
-:= -- 2654
-add.period$ -- 279
-call.type$ -- 74
-change.case$ -- 63
+            834 strings with 17754 characters,
+and the built_in function-call counts, 19013 in all, are:
+= -- 1854
+> -- 661
+< -- 34
++ -- 256
+- -- 181
+* -- 894
+:= -- 2707
+add.period$ -- 283
+call.type$ -- 75
+change.case$ -- 64
 chr.to.int$ -- 0
-cite$ -- 78
-duplicate$ -- 941
-empty$ -- 1943
-format.name$ -- 177
-if$ -- 4495
+cite$ -- 79
+duplicate$ -- 963
+empty$ -- 1981
+format.name$ -- 181
+if$ -- 4594
 int.to.chr$ -- 0
-int.to.str$ -- 74
-missing$ -- 64
-newline$ -- 401
-num.names$ -- 74
-pop$ -- 425
+int.to.str$ -- 75
+missing$ -- 65
+newline$ -- 406
+num.names$ -- 75
+pop$ -- 431
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 517
+skip$ -- 531
 stack$ -- 0
-substring$ -- 1075
-swap$ -- 356
-text.length$ -- 33
+substring$ -- 1107
+swap$ -- 366
+text.length$ -- 34
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 176
-width$ -- 76
-write$ -- 842
+while$ -- 180
+width$ -- 77
+write$ -- 854
 (There were 4 warnings)

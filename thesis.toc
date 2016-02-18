@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {3.3}Videonavigation auf Tablets und Smartphones}{24}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Multi-Touch Bildschirme und Gesten}{25}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Standardvideoplayer}{26}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{27}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{28}{subsection.3.3.3}
 \contentsline {chapter}{\numberline {4}Wischgestenbasierender Videoplayer}{36}{chapter.4}
 \contentsline {section}{\numberline {4.1}Spezifikation}{36}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Anforderungsanalyse}{36}{subsection.4.1.1}

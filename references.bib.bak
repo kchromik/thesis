@@ -114,6 +114,15 @@
   pages =     {237--242}
 }
 
+@InProceedings{friedland2009joke,
+  author =       {Friedland, Gerald and Gottlieb, Luke and Janin, Adam},
+  title =        {Joke-o-mat: browsing sitcoms punchline by punchline},
+  booktitle =    {Proceedings of the 17th ACM international conference on Multimedia},
+  year =         {2009},
+  pages =        {1115--1116},
+  organization = {ACM}
+}
+
 @Book{furht2009handbook,
   title =     {Handbook of multimedia for digital entertainment and arts},
   publisher = {Springer},

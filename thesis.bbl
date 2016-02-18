@@ -240,6 +240,13 @@ Nuno Vasconcelos and Andrew Lippman.
 \newblock In {\em Image Processing, 1998. ICIP 98. Proceedings. 1998
   International Conference on}, pages 153--157. IEEE, 1998.
 
+\bibitem{bai2013interactive}
+Hongliang Bai, Lezi Wang, Yuan Dong, and Kun Tao.
+\newblock Interactive video retrieval using combination of semantic index and
+  instance search.
+\newblock In {\em Advances in Multimedia Modeling}, pages 554--556. Springer,
+  2013.
+
 \bibitem{muller2012demonstration}
 Christopher Mueller, Martin Smole, and Klaus Schoeffmann.
 \newblock A demonstration of a hierarchical multi-layout 3d video browser.
