@@ -52,6 +52,15 @@
   url =          {https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/02_Playback.html}
 }
 
+@InCollection{bai2013interactive,
+  author =    {Bai, Hongliang and Wang, Lezi and Dong, Yuan and Tao, Kun},
+  title =     {Interactive video retrieval using combination of semantic index and instance search},
+  booktitle = {Advances in Multimedia Modeling},
+  publisher = {Springer},
+  year =      {2013},
+  pages =     {554--556}
+}
+
 @InProceedings{benko2006precise,
   author =       {Benko, Hrvoje and Wilson, Andrew D and Baudisch, Patrick},
   title =        {Precise selection techniques for multi-touch screens},
