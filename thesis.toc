@@ -16,9 +16,10 @@
 \contentsline {subsection}{\numberline {3.2.1}Video Browser Showdown}{23}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}TREC Video Retrieval Evaluation}{24}{subsection.3.2.2}
 \contentsline {section}{\numberline {3.3}Videonavigation auf Tablets und Smartphones}{25}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Multi-Touch Bildschirme und Gesten}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Standardvideoplayer}{27}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{28}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Interface Design Guidelines}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Multi-Touch Bildschirme und Gesten}{26}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Standardvideoplayer}{27}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{28}{subsection.3.3.4}
 \contentsline {chapter}{\numberline {4}Wischgestenbasierender Videoplayer}{37}{chapter.4}
 \contentsline {section}{\numberline {4.1}Spezifikation}{37}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Anforderungsanalyse}{37}{subsection.4.1.1}
