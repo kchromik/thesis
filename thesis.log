@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.23)  18 FEB 2016 09:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.23)  19 FEB 2016 07:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -787,6 +787,9 @@ File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
 )
 (./thesis.aux
 
+LaTeX Warning: Label `absatz_markt' multiply defined.
+
+
 LaTeX Warning: Label `zoom_video_explorer' multiply defined.
 
 
@@ -1239,18 +1242,24 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 90.
-<./images/1.png, id=440, 322.806pt x 230.3004pt>
+<./images/1.png, id=444, 322.806pt x 230.3004pt>
 File: ./images/1.png Graphic file (type png)
  <use ./images/1.png>
 Package pdftex.def Info: ./images/1.png used on input line 95.
 (pdftex.def)             Requested size: 387.36525pt x 276.35909pt.
 
-<./images/2.png, id=444, 458.1918pt x 280.4076pt>
+<./images/2.png, id=448, 458.1918pt x 280.4076pt>
 File: ./images/2.png Graphic file (type png)
  <use ./images/2.png>
 Package pdftex.def Info: ./images/2.png used on input line 103.
 (pdftex.def)             Requested size: 412.36882pt x 252.3645pt.
 
+<./images/41.png, id=452, 456.2646pt x 321.3606pt>
+File: ./images/41.png Graphic file (type png)
+ <use ./images/41.png>
+Package pdftex.def Info: ./images/41.png used on input line 111.
+(pdftex.def)             Requested size: 410.63435pt x 289.22185pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1258,21 +1267,25 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 109.
+(babel)             in language  on input line 118.
 [6
 
 ]
-Underfull \vbox (badness 2875) has occurred while \output is active []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1282,29 +1295,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 118.
 [7 <./images/1.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 112.
- <./images/3.png, id=464, 458.6736pt x 109.8504pt>
+(babel)             in language  on input line 121.
+ <./images/3.png, id=470, 458.6736pt x 109.8504pt>
 File: ./images/3.png Graphic file (type png)
 
 <use ./images/3.png>
-Package pdftex.def Info: ./images/3.png used on input line 117.
+Package pdftex.def Info: ./images/3.png used on input line 126.
 (pdftex.def)             Requested size: 412.80241pt x 98.86443pt.
 
 
@@ -1314,24 +1327,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 132.
 [8 <./images/2.png>]
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 124.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1340,32 +1353,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 127.
-[9 <./images/3.png>]
+(babel)             in language  on input line 132.
+[9 <./images/41.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 133.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 133.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 130.
- <./images/4.png, id=484, 381.1038pt x 259.6902pt>
+(babel)             in language  on input line 133.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 136.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 136.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 136.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 136.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 136.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 136.
+[10 <./images/3.png>]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 139.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 139.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 139.
+ <./images/4.png, id=496, 381.1038pt x 259.6902pt>
 File: ./images/4.png Graphic file (type png)
 
 <use ./images/4.png>
-Package pdftex.def Info: ./images/4.png used on input line 135.
+Package pdftex.def Info: ./images/4.png used on input line 144.
 (pdftex.def)             Requested size: 419.21547pt x 285.66008pt.
 
-Overfull \hbox (0.96179pt too wide) in paragraph at lines 135--136
+Overfull \hbox (0.96179pt too wide) in paragraph at lines 144--145
  [] 
  []
 
@@ -1376,21 +1415,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 141.
-[10]
-Underfull \vbox (badness 1824) has occurred while \output is active []
-
-
+(babel)             in language  on input line 150.
+[11]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1398,73 +1434,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 143.
-[11 <./images/4.png>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 144.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 144.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 144.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 144.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 144.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 144.
-[12]
+(babel)             in language  on input line 153.
+[12 <./images/4.png>]
 Kapitel 3.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 153.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 152.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 152.
-<./images/5.png, id=507, 456.7464pt x 135.3858pt>
+(babel)             in language  on input line 161.
+<./images/5.png, id=516, 456.7464pt x 135.3858pt>
 File: ./images/5.png Graphic file (type png)
  <use ./images/5.png>
-Package pdftex.def Info: ./images/5.png used on input line 157.
+Package pdftex.def Info: ./images/5.png used on input line 166.
 (pdftex.def)             Requested size: 411.06796pt x 121.84608pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
  [13
 
 ]
@@ -1475,24 +1492,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 172.
 [14 <./images/5.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 175.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1501,27 +1518,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 171.
-[15] <./images/6.png, id=533, 380.1402pt x 343.0416pt>
+(babel)             in language  on input line 180.
+[15] <./images/6.png, id=541, 380.1402pt x 343.0416pt>
 File: ./images/6.png Graphic file (type png)
  <use ./images/6.png>
-Package pdftex.def Info: ./images/6.png used on input line 175.
+Package pdftex.def Info: ./images/6.png used on input line 184.
 (pdftex.def)             Requested size: 380.13925pt x 343.04074pt.
 
-<./images/7.png, id=535, 388.8126pt x 140.6856pt>
+<./images/7.png, id=543, 388.8126pt x 140.6856pt>
 File: ./images/7.png Graphic file (type png)
  <use ./images/7.png>
-Package pdftex.def Info: ./images/7.png used on input line 183.
+Package pdftex.def Info: ./images/7.png used on input line 192.
 (pdftex.def)             Requested size: 408.2534pt x 147.71992pt.
 
 
@@ -1534,17 +1551,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 198.
 [16]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1556,22 +1573,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 191.
-[17 <./images/6.png>] <./images/39.png, id=550, 782.925pt x 742.775pt>
+(babel)             in language  on input line 200.
+[17 <./images/6.png>] <./images/39.png, id=558, 782.925pt x 742.775pt>
 File: ./images/39.png Graphic file (type png)
 
 <use ./images/39.png>
-Package pdftex.def Info: ./images/39.png used on input line 195.
+Package pdftex.def Info: ./images/39.png used on input line 204.
 (pdftex.def)             Requested size: 313.16446pt x 297.10474pt.
 
 
@@ -1588,24 +1605,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 211.
 [18 <./images/7.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 214.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 214.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 214.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1614,22 +1631,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 208.
-[19 <./images/39.png>] <./images/8.png, id=566, 339.1872pt x 255.354pt>
+(babel)             in language  on input line 217.
+[19 <./images/39.png>] <./images/8.png, id=574, 339.1872pt x 255.354pt>
 File: ./images/8.png Graphic file (type png)
 
 <use ./images/8.png>
-Package pdftex.def Info: ./images/8.png used on input line 212.
+Package pdftex.def Info: ./images/8.png used on input line 221.
 (pdftex.def)             Requested size: 373.10707pt x 280.89027pt.
 
 
@@ -1639,22 +1656,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 218.
-[20 <./images/8.png>] <./images/40.png, id=579, 456.2646pt x 290.5254pt>
+(babel)             in language  on input line 227.
+[20 <./images/8.png>] <./images/40.png, id=587, 456.2646pt x 290.5254pt>
 File: ./images/40.png Graphic file (type png)
 
 <use ./images/40.png>
-Package pdftex.def Info: ./images/40.png used on input line 226.
+Package pdftex.def Info: ./images/40.png used on input line 235.
 (pdftex.def)             Requested size: 410.63435pt x 261.47044pt.
 
 
@@ -1667,30 +1684,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 241.
 [21]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 235.
+(babel)             in language  on input line 244.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 235.
+(babel)             in language  on input line 244.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 235.
+(babel)             in language  on input line 244.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 239.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 239.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 239.
+(babel)             in language  on input line 248.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1699,24 +1716,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 251.
 [22 <./images/40.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 252.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1728,17 +1745,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 255.
 [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1750,24 +1767,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 [24]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 256.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1776,24 +1793,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 261.
 [25]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 264.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 264.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 264.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1802,28 +1819,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 267.
 [26]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 259.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 259.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 259.
- <./images/9.png, id=630, 348.3414pt x 255.8358pt>
+(babel)             in language  on input line 268.
+ <./images/9.png, id=638, 348.3414pt x 255.8358pt>
 File: ./images/9.png Graphic file (type png)
  <use ./images/9.png>
-Package pdftex.def Info: ./images/9.png used on input line 264.
+Package pdftex.def Info: ./images/9.png used on input line 273.
 (pdftex.def)             Requested size: 383.17671pt x 281.42024pt.
 
 
@@ -1836,28 +1853,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 279.
 [27]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 273.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 273.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 273.
- <./images/10.png, id=639, 391.7034pt x 292.9344pt>
+(babel)             in language  on input line 282.
+ <./images/10.png, id=648, 391.7034pt x 292.9344pt>
 File: ./images/10.png Graphic file (type png)
  <use ./images/10.png>
-Package pdftex.def Info: ./images/10.png used on input line 280.
+Package pdftex.def Info: ./images/10.png used on input line 289.
 (pdftex.def)             Requested size: 391.70244pt x 292.93369pt.
 
 
@@ -1867,17 +1884,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 [28 <./images/9.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1886,22 +1903,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 286.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 286.
-[29 <./images/10.png>] <./images/11.png, id=656, 311.2428pt x 203.8014pt>
+(babel)             in language  on input line 295.
+[29 <./images/10.png>] <./images/11.png, id=664, 311.2428pt x 203.8014pt>
 File: ./images/11.png Graphic file (type png)
 
 <use ./images/11.png>
-Package pdftex.def Info: ./images/11.png used on input line 290.
+Package pdftex.def Info: ./images/11.png used on input line 299.
 (pdftex.def)             Requested size: 373.48949pt x 244.56044pt.
 
 
@@ -1914,21 +1931,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 295.
-[30] <./images/12.png, id=664, 452.4102pt x 222.1098pt>
+(babel)             in language  on input line 304.
+[30] <./images/12.png, id=672, 452.4102pt x 222.1098pt>
 File: ./images/12.png Graphic file (type png)
  <use ./images/12.png>
-Package pdftex.def Info: ./images/12.png used on input line 299.
+Package pdftex.def Info: ./images/12.png used on input line 308.
 (pdftex.def)             Requested size: 407.1654pt x 199.89696pt.
 
 
@@ -1945,22 +1962,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 305.
-[31 <./images/11.png>] <./images/13.png, id=672, 413.3844pt x 79.0152pt>
+(babel)             in language  on input line 314.
+[31 <./images/11.png>] <./images/13.png, id=680, 413.3844pt x 79.0152pt>
 File: ./images/13.png Graphic file (type png)
 
 <use ./images/13.png>
-Package pdftex.def Info: ./images/13.png used on input line 309.
+Package pdftex.def Info: ./images/13.png used on input line 318.
 (pdftex.def)             Requested size: 413.38338pt x 79.015pt.
 
 Underfull \vbox (badness 1533) has occurred while \output is active []
@@ -1973,22 +1990,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 315.
+(babel)             in language  on input line 324.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 315.
+(babel)             in language  on input line 324.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 315.
+(babel)             in language  on input line 324.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 315.
+(babel)             in language  on input line 324.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 315.
+(babel)             in language  on input line 324.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 315.
-[32 <./images/12.png>] <./images/14.png, id=680, 201.3924pt x 210.5466pt>
+(babel)             in language  on input line 324.
+[32 <./images/12.png>] <./images/14.png, id=688, 201.3924pt x 210.5466pt>
 File: ./images/14.png Graphic file (type png)
 
 <use ./images/14.png>
-Package pdftex.def Info: ./images/14.png used on input line 319.
+Package pdftex.def Info: ./images/14.png used on input line 328.
 (pdftex.def)             Requested size: 241.66965pt x 252.65465pt.
 
 
@@ -2001,22 +2018,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 334.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 325.
-[33 <./images/13.png>] <./images/15.png, id=688, 456.7464pt x 172.0026pt>
+(babel)             in language  on input line 334.
+[33 <./images/13.png>] <./images/15.png, id=696, 456.7464pt x 172.0026pt>
 File: ./images/15.png Graphic file (type png)
 
 <use ./images/15.png>
-Package pdftex.def Info: ./images/15.png used on input line 329.
+Package pdftex.def Info: ./images/15.png used on input line 338.
 (pdftex.def)             Requested size: 411.06796pt x 154.80089pt.
 
 
@@ -2026,17 +2043,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 [34 <./images/14.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2045,17 +2062,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 335.
+(babel)             in language  on input line 344.
 [35 <./images/15.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2064,73 +2081,73 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 [36]
 Kapitel 4.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 338.
+(babel)             in language  on input line 347.
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--338
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
 \T1/lmr/bx/n/24.88 Wischgestenbasierender
  []
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 351.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 351.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 351.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 346.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 346.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 346.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 358.
 [37
 
 ]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 350.
+(babel)             in language  on input line 359.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 350.
+(babel)             in language  on input line 359.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 350.
- <./images/16.png, id=710, 295.3434pt x 208.6194pt>
+(babel)             in language  on input line 359.
+ <./images/16.png, id=718, 295.3434pt x 208.6194pt>
 File: ./images/16.png Graphic file (type png)
  <use ./images/16.png>
-Package pdftex.def Info: ./images/16.png used on input line 355.
+Package pdftex.def Info: ./images/16.png used on input line 364.
 (pdftex.def)             Requested size: 324.87872pt x 229.48204pt.
 
-<./images/17.png, id=713, 312.16624pt x 234.8775pt>
+<./images/17.png, id=721, 312.16624pt x 234.8775pt>
 File: ./images/17.png Graphic file (type png)
  <use ./images/17.png>
-Package pdftex.def Info: ./images/17.png used on input line 363.
+Package pdftex.def Info: ./images/17.png used on input line 372.
 (pdftex.def)             Requested size: 343.38393pt x 258.36604pt.
 
 
@@ -2146,17 +2163,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2168,29 +2185,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 369.
+(babel)             in language  on input line 378.
 [39 <./images/16.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 370.
+(babel)             in language  on input line 379.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 370.
+(babel)             in language  on input line 379.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 370.
- <./images/18.png, id=723, 372.9132pt x 269.3262pt>
+(babel)             in language  on input line 379.
+ <./images/18.png, id=731, 372.9132pt x 269.3262pt>
 File: ./images/18.png Graphic file (type png)
 
 <use ./images/18.png>
-Package pdftex.def Info: ./images/18.png used on input line 375.
+Package pdftex.def Info: ./images/18.png used on input line 384.
 (pdftex.def)             Requested size: 410.20578pt x 296.25974pt.
 
 
@@ -2203,24 +2220,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 390.
 [40 <./images/17.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 384.
+(babel)             in language  on input line 393.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 384.
+(babel)             in language  on input line 393.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 384.
+(babel)             in language  on input line 393.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2232,32 +2249,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 396.
 [41 <./images/18.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 388.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 388.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 388.
- <./images/19.png, id=734, 308.8338pt x 239.9364pt>
+(babel)             in language  on input line 397.
+ <./images/19.png, id=742, 308.8338pt x 239.9364pt>
 File: ./images/19.png Graphic file (type png)
 
 <use ./images/19.png>
-Package pdftex.def Info: ./images/19.png used on input line 393.
+Package pdftex.def Info: ./images/19.png used on input line 402.
 (pdftex.def)             Requested size: 339.71822pt x 263.93085pt.
 
-Overfull \hbox (0.27733pt too wide) in paragraph at lines 390--399
+Overfull \hbox (0.27733pt too wide) in paragraph at lines 399--408
 \T1/lmr/m/n/10.95 Eines der wich-tig-sten Pa-ra-dig-men in der iOS Ent-wick-lun
 g ist das Model-View-Controllers
  []
@@ -2272,24 +2289,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 409.
 [42]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 402.
+(babel)             in language  on input line 411.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 402.
+(babel)             in language  on input line 411.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 402.
+(babel)             in language  on input line 411.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2298,36 +2315,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 405.
+(babel)             in language  on input line 414.
 [43 <./images/19.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 406.
+(babel)             in language  on input line 415.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 406.
+(babel)             in language  on input line 415.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 406.
+(babel)             in language  on input line 415.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 410.
+(Font)              <9> on input line 419.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 410.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 410.
+(Font)              <5> on input line 419.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 419.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 410.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 419.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2336,27 +2353,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 413.
+(babel)             in language  on input line 422.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 413.
+(babel)             in language  on input line 422.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 413.
+(babel)             in language  on input line 422.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 413.
+(babel)             in language  on input line 422.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 413.
+(babel)             in language  on input line 422.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 413.
-[44] <./images/20.png, id=763, 205.7286pt x 92.9874pt>
+(babel)             in language  on input line 422.
+[44] <./images/20.png, id=771, 205.7286pt x 92.9874pt>
 File: ./images/20.png Graphic file (type png)
  <use ./images/20.png>
-Package pdftex.def Info: ./images/20.png used on input line 432.
+Package pdftex.def Info: ./images/20.png used on input line 441.
 (pdftex.def)             Requested size: 246.87308pt x 111.5843pt.
 
-<./images/21.png, id=765, 251.0178pt x 137.313pt>
+<./images/21.png, id=773, 251.0178pt x 137.313pt>
 File: ./images/21.png Graphic file (type png)
  <use ./images/21.png>
-Package pdftex.def Info: ./images/21.png used on input line 440.
+Package pdftex.def Info: ./images/21.png used on input line 449.
 (pdftex.def)             Requested size: 301.21985pt x 164.77475pt.
 
 
@@ -2366,21 +2383,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 447.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 447.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 447.
-<./images/22.png, id=769, 298.716pt x 185.493pt>
+(babel)             in language  on input line 456.
+<./images/22.png, id=777, 298.716pt x 185.493pt>
 File: ./images/22.png Graphic file (type png)
  <use ./images/22.png>
-Package pdftex.def Info: ./images/22.png used on input line 452.
+Package pdftex.def Info: ./images/22.png used on input line 461.
 (pdftex.def)             Requested size: 328.5886pt x 204.04292pt.
 
-<./images/23.png, id=773, 297.7524pt x 140.2038pt>
+<./images/23.png, id=781, 297.7524pt x 140.2038pt>
 File: ./images/23.png Graphic file (type png)
  <use ./images/23.png>
-Package pdftex.def Info: ./images/23.png used on input line 460.
+Package pdftex.def Info: ./images/23.png used on input line 469.
 (pdftex.def)             Requested size: 327.52864pt x 154.22464pt.
 
 
@@ -2390,17 +2407,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 [45]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2412,17 +2429,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 [46 <./images/20.png> <./images/21.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2431,36 +2448,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 466.
+(babel)             in language  on input line 475.
 [47 <./images/22.png> <./images/23.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 467.
+(babel)             in language  on input line 476.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 467.
+(babel)             in language  on input line 476.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 467.
+(babel)             in language  on input line 476.
 
-<./images/24.png, id=808, 160.9212pt x 195.129pt>
+<./images/24.png, id=816, 160.9212pt x 195.129pt>
 File: ./images/24.png Graphic file (type png)
  <use ./images/24.png>
-Package pdftex.def Info: ./images/24.png used on input line 472.
+Package pdftex.def Info: ./images/24.png used on input line 481.
 (pdftex.def)             Requested size: 177.01385pt x 214.64255pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 479.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 488.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2468,24 +2485,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 493.
 [48]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 491.
+(babel)             in language  on input line 500.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 491.
+(babel)             in language  on input line 500.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 491.
+(babel)             in language  on input line 500.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2494,35 +2511,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 503.
 [49 <./images/24.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 495.
+(babel)             in language  on input line 504.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 495.
+(babel)             in language  on input line 504.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 495.
+(babel)             in language  on input line 504.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 499.
+(babel)             in language  on input line 508.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 499.
+(babel)             in language  on input line 508.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 499.
- <./images/25.png, id=829, 321.8424pt x 155.6214pt>
+(babel)             in language  on input line 508.
+ <./images/25.png, id=837, 321.8424pt x 155.6214pt>
 File: ./images/25.png Graphic file (type png)
 
 <use ./images/25.png>
-Package pdftex.def Info: ./images/25.png used on input line 504.
+Package pdftex.def Info: ./images/25.png used on input line 513.
 (pdftex.def)             Requested size: 354.02773pt x 171.18405pt.
 
 
@@ -2532,31 +2549,31 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 519.
 [50]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 511.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 511.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 511.
- <./images/26.png, id=839, 456.7464pt x 114.6684pt>
+(babel)             in language  on input line 520.
+ <./images/26.png, id=847, 456.7464pt x 114.6684pt>
 File: ./images/26.png Graphic file (type png)
  <use ./images/26.png>
-Package pdftex.def Info: ./images/26.png used on input line 516.
+Package pdftex.def Info: ./images/26.png used on input line 525.
 (pdftex.def)             Requested size: 456.74529pt x 114.6681pt.
 
-Overfull \hbox (38.49161pt too wide) in paragraph at lines 516--517
+Overfull \hbox (38.49161pt too wide) in paragraph at lines 525--526
  [] 
  []
 
@@ -2567,17 +2584,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 522.
+(babel)             in language  on input line 531.
 [51 <./images/25.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2586,17 +2603,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 537.
 [52 <./images/26.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2605,17 +2622,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 539.
+(babel)             in language  on input line 548.
 [53]
 Underfull \vbox (badness 1057) has occurred while \output is active []
 
@@ -2627,28 +2644,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 560.
-[54] <./images/27.png, id=893, 413.8662pt x 46.7346pt>
+(babel)             in language  on input line 569.
+[54] <./images/27.png, id=901, 413.8662pt x 46.7346pt>
 File: ./images/27.png Graphic file (type png)
  <use ./images/27.png>
-Package pdftex.def Info: ./images/27.png used on input line 563.
+Package pdftex.def Info: ./images/27.png used on input line 572.
 (pdftex.def)             Requested size: 413.86517pt x 46.73448pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 582.
+(babel)             in language  on input line 591.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 582.
+(babel)             in language  on input line 591.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 582.
+(babel)             in language  on input line 591.
 
 Underfull \vbox (badness 4048) has occurred while \output is active []
 
@@ -2660,22 +2677,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 585.
+(babel)             in language  on input line 594.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 585.
+(babel)             in language  on input line 594.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 585.
+(babel)             in language  on input line 594.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 585.
+(babel)             in language  on input line 594.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 585.
+(babel)             in language  on input line 594.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 585.
-[55 <./images/27.png>] <./images/28.png, id=909, 363.759pt x 251.0178pt>
+(babel)             in language  on input line 594.
+[55 <./images/27.png>] <./images/28.png, id=917, 363.759pt x 251.0178pt>
 File: ./images/28.png Graphic file (type png)
 
 <use ./images/28.png>
-Package pdftex.def Info: ./images/28.png used on input line 589.
+Package pdftex.def Info: ./images/28.png used on input line 598.
 (pdftex.def)             Requested size: 400.13614pt x 276.12042pt.
 
 
@@ -2685,17 +2702,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 595.
+(babel)             in language  on input line 604.
 [56 <./images/28.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2704,21 +2721,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 613.
+(babel)             in language  on input line 622.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 613.
+(babel)             in language  on input line 622.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 613.
+(babel)             in language  on input line 622.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 613.
+(babel)             in language  on input line 622.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 613.
+(babel)             in language  on input line 622.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 613.
-[57] <./images/29.png, id=934, 947.54pt x 584.1825pt>
+(babel)             in language  on input line 622.
+[57] <./images/29.png, id=942, 947.54pt x 584.1825pt>
 File: ./images/29.png Graphic file (type png)
  <use ./images/29.png>
-Package pdftex.def Info: ./images/29.png used on input line 620.
+Package pdftex.def Info: ./images/29.png used on input line 629.
 (pdftex.def)             Requested size: 379.00928pt x 233.66885pt.
 
 
@@ -2731,17 +2748,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 628.
+(babel)             in language  on input line 637.
 [58]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2750,17 +2767,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 641.
+(babel)             in language  on input line 650.
 [59 <./images/29.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2769,28 +2786,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 674.
 [60]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 667.
+(babel)             in language  on input line 676.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 667.
+(babel)             in language  on input line 676.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 667.
- <./images/30.png, id=986, 264.5082pt x 198.5016pt>
+(babel)             in language  on input line 676.
+ <./images/30.png, id=994, 264.5082pt x 198.5016pt>
 File: ./images/30.png Graphic file (type png)
  <use ./images/30.png>
-Package pdftex.def Info: ./images/30.png used on input line 674.
+Package pdftex.def Info: ./images/30.png used on input line 683.
 (pdftex.def)             Requested size: 317.40823pt x 238.20073pt.
 
 
@@ -2803,17 +2820,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 693.
 [61]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2822,17 +2839,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 694.
+(babel)             in language  on input line 703.
 [62 <./images/30.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2841,59 +2858,59 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 [63]
 Kapitel 5.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 700.
+(babel)             in language  on input line 709.
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--700
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
 \T1/lmr/bx/n/24.88 Benutzerstudie und
  []
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 713.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 713.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 704.
-<./images/31.png, id=1001, 455.7828pt x 164.7756pt>
+(babel)             in language  on input line 713.
+<./images/31.png, id=1009, 455.7828pt x 164.7756pt>
 File: ./images/31.png Graphic file (type png)
  <use ./images/31.png>
-Package pdftex.def Info: ./images/31.png used on input line 709.
+Package pdftex.def Info: ./images/31.png used on input line 718.
 (pdftex.def)             Requested size: 410.20073pt x 148.29665pt.
 
-<./images/32.png, id=1002, 454.8192pt x 179.7114pt>
+<./images/32.png, id=1010, 454.8192pt x 179.7114pt>
 File: ./images/32.png Graphic file (type png)
  <use ./images/32.png>
-Package pdftex.def Info: ./images/32.png used on input line 717.
+Package pdftex.def Info: ./images/32.png used on input line 726.
 (pdftex.def)             Requested size: 409.3335pt x 161.73874pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 
 [64
 
@@ -2912,24 +2929,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 723.
+(babel)             in language  on input line 732.
 [65 <./images/31.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 724.
+(babel)             in language  on input line 733.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 724.
+(babel)             in language  on input line 733.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 724.
+(babel)             in language  on input line 733.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2938,17 +2955,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 727.
+(babel)             in language  on input line 736.
 [66 <./images/32.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2957,40 +2974,40 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 752.
+(babel)             in language  on input line 761.
 [67]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 753.
+(babel)             in language  on input line 762.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 753.
+(babel)             in language  on input line 762.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 753.
+(babel)             in language  on input line 762.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 756.
+(babel)             in language  on input line 765.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 756.
+(babel)             in language  on input line 765.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 756.
- <./images/33.png, id=1028, 457.2282pt x 282.3348pt>
+(babel)             in language  on input line 765.
+ <./images/33.png, id=1036, 457.2282pt x 282.3348pt>
 File: ./images/33.png Graphic file (type png)
  <use ./images/33.png>
-Package pdftex.def Info: ./images/33.png used on input line 761.
+Package pdftex.def Info: ./images/33.png used on input line 770.
 (pdftex.def)             Requested size: 411.50157pt x 254.09895pt.
 
-<./images/34.png, id=1029, 457.2282pt x 278.4804pt>
+<./images/34.png, id=1037, 457.2282pt x 278.4804pt>
 File: ./images/34.png Graphic file (type png)
  <use ./images/34.png>
-Package pdftex.def Info: ./images/34.png used on input line 769.
+Package pdftex.def Info: ./images/34.png used on input line 778.
 (pdftex.def)             Requested size: 411.50157pt x 250.63004pt.
 
 
@@ -3000,17 +3017,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 [68]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3019,35 +3036,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 774.
+(babel)             in language  on input line 783.
 [69 <./images/33.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 777.
+(babel)             in language  on input line 786.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 777.
+(babel)             in language  on input line 786.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 777.
- <./images/35.png, id=1041, 457.2282pt x 273.6624pt>
+(babel)             in language  on input line 786.
+ <./images/35.png, id=1049, 457.2282pt x 273.6624pt>
 File: ./images/35.png Graphic file (type png)
 
 <use ./images/35.png>
-Package pdftex.def Info: ./images/35.png used on input line 782.
+Package pdftex.def Info: ./images/35.png used on input line 791.
 (pdftex.def)             Requested size: 411.50157pt x 246.29387pt.
- <./images/36.png, id=1042, 457.2282pt x 279.444pt>
+ <./images/36.png, id=1050, 457.2282pt x 279.444pt>
 File: ./images/36.png Graphic file (type png)
 
 <use ./images/36.png>
-Package pdftex.def Info: ./images/36.png used on input line 790.
+Package pdftex.def Info: ./images/36.png used on input line 799.
 (pdftex.def)             Requested size: 411.50157pt x 251.49727pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3060,17 +3077,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 [70 <./images/34.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3079,17 +3096,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 805.
 [71 <./images/35.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3105,24 +3122,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 797.
+(babel)             in language  on input line 806.
 [72]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 808.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 808.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 799.
+(babel)             in language  on input line 808.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3131,22 +3148,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 807.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 807.
-[73 <./images/36.png>] <./images/37.png, id=1066, 457.2282pt x 258.7266pt>
+(babel)             in language  on input line 816.
+[73 <./images/36.png>] <./images/37.png, id=1074, 457.2282pt x 258.7266pt>
 File: ./images/37.png Graphic file (type png)
 
 <use ./images/37.png>
-Package pdftex.def Info: ./images/37.png used on input line 813.
+Package pdftex.def Info: ./images/37.png used on input line 822.
 (pdftex.def)             Requested size: 411.50157pt x 232.85176pt.
 
 
@@ -3156,29 +3173,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 819.
+(babel)             in language  on input line 828.
 [74 <./images/37.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 820.
+(babel)             in language  on input line 829.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 820.
+(babel)             in language  on input line 829.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 820.
- <./images/38.png, id=1075, 461.0826pt x 282.8166pt>
+(babel)             in language  on input line 829.
+ <./images/38.png, id=1083, 461.0826pt x 282.8166pt>
 File: ./images/38.png Graphic file (type png)
 
 <use ./images/38.png>
-Package pdftex.def Info: ./images/38.png used on input line 825.
+Package pdftex.def Info: ./images/38.png used on input line 834.
 (pdftex.def)             Requested size: 414.9705pt x 254.53258pt.
 
 
@@ -3191,17 +3208,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 831.
+(babel)             in language  on input line 840.
 [75]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3210,37 +3227,37 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 834.
+(babel)             in language  on input line 843.
 [76 <./images/38.png>]
 Kapitel 6.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 834.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 834.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 834.
-Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 843.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 843.
+(babel)             in language  on input line 852.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 843.
+(babel)             in language  on input line 852.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 843.
+(babel)             in language  on input line 852.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 852.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 852.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 852.
 [77
 
 ] (./thesis.bbl
@@ -3274,45 +3291,45 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 [79
 
 ]
-Underfull \hbox (badness 2753) in paragraph at lines 113--118
+Underfull \hbox (badness 2753) in paragraph at lines 119--124
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: Key-value ob
 -ser-ving.  []$\T1/lmtt/m/n/10.95 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--118
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / mac / documentation 
 / Cocoa / Conceptual /
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 120--125
+Underfull \hbox (badness 1558) in paragraph at lines 126--131
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: About av-fou
 n-da-ti-on.  []$\T1/lmtt/m/n/10.95 https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--131
 \T1/lmtt/m/n/10.95 developer . apple . com / library / prerelease / ios / docum
 entation / AudioVideo /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
 \T1/lmtt/m/n/10.95 prerelease / ios / documentation / AudioVideo / Conceptual /
  AVFoundationPG /
  []
@@ -3324,37 +3341,37 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 138.
 [80]
-Underfull \hbox (badness 4156) in paragraph at lines 134--139
+Underfull \hbox (badness 4156) in paragraph at lines 140--145
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: Ui-re-spon-d
 er chain.  []$\T1/lmtt/m/n/10.95 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--139
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / ios / documentation 
 / EventHandling /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--139
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
 \T1/lmtt/m/n/10.95 Conceptual / EventHandlingiPhoneOS / event _ delivery _ resp
 onder _ chain /
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 165--169
+Underfull \hbox (badness 2961) in paragraph at lines 171--175
 []\T1/lmr/m/n/10.95 International Da-ta Cor-po-ra-ti-on.  Idc world-wi-de quar-
 ter-ly ta-blet tracker.
  []
@@ -3366,17 +3383,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 210.
 [81]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3385,17 +3402,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 [82]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3404,55 +3421,55 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 345.
 [83]
-Underfull \hbox (badness 10000) in paragraph at lines 372--377
+Underfull \hbox (badness 10000) in paragraph at lines 378--383
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / ios / documentation 
 / Cocoa / Conceptual /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--377
+Underfull \hbox (badness 10000) in paragraph at lines 378--383
 \T1/lmtt/m/n/10.95 ProgrammingWithObjectiveC / WorkingwithProtocols / Workingwi
 thProtocols .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--384
+Underfull \hbox (badness 10000) in paragraph at lines 385--390
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / mac / documentation 
 / Cocoa / Reference /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--384
+Underfull \hbox (badness 10000) in paragraph at lines 385--390
 \T1/lmtt/m/n/10.95 Foundation / Classes / NSNotificationCenter _ Class/$[]\T1/l
 mr/m/n/10.95 .  Ein-ge-se-hen am
  []
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 405--410
+Underfull \hbox (badness 4713) in paragraph at lines 411--416
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: Ui-re-spon-d
 er class.  []$\T1/lmtt/m/n/10.95 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--410
+Underfull \hbox (badness 10000) in paragraph at lines 411--416
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / ios / documentation 
 / UIKit / Reference /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--417
+Underfull \hbox (badness 10000) in paragraph at lines 418--423
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / ios / documentation 
 / UIKit / Reference /
  []
@@ -3464,43 +3481,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 [84]
-Underfull \hbox (badness 5490) in paragraph at lines 443--448
+Underfull \hbox (badness 5490) in paragraph at lines 449--454
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: Mp-me-diaque
 -ry classre-fe-rence.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--454
 []$\T1/lmtt/m/n/10.95 https : / / developer . apple . com / library / ios / doc
 umentation / MediaPlayer /
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 458--463
+Underfull \hbox (badness 1960) in paragraph at lines 464--469
 []\T1/lmr/m/n/10.95 Apple Inc.  Ap-p-le ios de-vel-oper li-bra-ry: Ui-view-con-
 trol-ler class.  []$\T1/lmtt/m/n/10.95 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--463
+Underfull \hbox (badness 10000) in paragraph at lines 464--469
 \T1/lmtt/m/n/10.95 / / developer . apple . com / library / ios / documentation 
 / UIKit / Reference /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--476
+Underfull \hbox (badness 10000) in paragraph at lines 477--482
 \T1/lmtt/m/n/10.95 com / library / mac / documentation / Cocoa / Reference / Fo
 undation / Classes /
  []
@@ -3513,114 +3530,114 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 876.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 876.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 876.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 876.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 876.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 867.
-[85] <Fragebogen_2_en.pdf, id=1176, 597.23125pt x 845.1575pt>
+(babel)             in language  on input line 876.
+[85] <Fragebogen_2_en.pdf, id=1186, 597.23125pt x 845.1575pt>
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf>
-Package pdftex.def Info: Fragebogen_2_en.pdf used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf used on input line 878.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
  <use Fragebogen_2_en.pdf>
-Package pdftex.def Info: Fragebogen_2_en.pdf used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf used on input line 878.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Fragebogen_2_en.pdf, id=1179, page=1, 597.23125pt x 845.1575pt>
+<Fragebogen_2_en.pdf, id=1189, page=1, 597.23125pt x 845.1575pt>
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf, page 1>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 878.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
  <use Fragebogen_2_en.pdf, page 1>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf, page 1>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
  <use Fragebogen_2_en.pdf, page 1>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 
-<Fragebogen_2_en.pdf, id=1180, page=2, 597.23125pt x 845.1575pt>
+<Fragebogen_2_en.pdf, id=1190, page=2, 597.23125pt x 845.1575pt>
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf, page 2>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
  <use Fragebogen_2_en.pdf, page 2>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf, page 1>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page1 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [86
 
  <./Fragebogen_2_en.pdf>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 869.
+(babel)             in language  on input line 878.
 File: Fragebogen_2_en.pdf Graphic file (type pdf)
 
 <use Fragebogen_2_en.pdf, page 2>
-Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 869.
+Package pdftex.def Info: Fragebogen_2_en.pdf, page2 used on input line 878.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [87 <./Fragebogen_2_en.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 874.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 874.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 883.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 883.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 874.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 874.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 883.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 883.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 0E9EE071A669390CB704C60838B8CFB1;3370.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 874.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 883.
  ) 
 Here is how much of TeX's memory you used:
- 12111 strings out of 493089
- 172909 string characters out of 6134841
+ 12119 strings out of 493089
+ 173051 string characters out of 6134841
  376944 words of memory out of 5000000
- 14959 multiletter control sequences out of 15000+600000
+ 14964 multiletter control sequences out of 15000+600000
  72932 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,58p,3146b,1936s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3642,10 +3659,10 @@ ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/lm/lmtt10.pfb>
-Output written on thesis.pdf (94 pages, 10548155 bytes).
+Output written on thesis.pdf (94 pages, 10677575 bytes).
 PDF statistics:
- 1366 PDF objects out of 1440 (max. 8388607)
- 1136 compressed objects within 12 object streams
- 358 named destinations out of 1000 (max. 500000)
- 599 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1376 PDF objects out of 1440 (max. 8388607)
+ 1144 compressed objects within 12 object streams
+ 360 named destinations out of 1000 (max. 500000)
+ 604 words of extra memory for PDF output out of 10000 (max. 10000000)
 
