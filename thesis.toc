@@ -7,36 +7,36 @@
 \contentsline {section}{\numberline {2.2}Multimediale Inhalte}{8}{section.2.2}
 \contentsline {section}{\numberline {2.3}Videokonsum auf mobilen Ger\IeC {\"a}ten}{10}{section.2.3}
 \contentsline {section}{\numberline {2.4}Durchsuchbarkeit von Multimedia Dateien}{11}{section.2.4}
-\contentsline {chapter}{\numberline {3}Videobrowsing}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Navigationsunterst\IeC {\"u}tzung}{13}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Klassische Navigation}{13}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Automatische Inhaltsanalyse}{15}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Alternative Inhaltsvisualisierung und Navigation}{19}{subsection.3.1.3}
-\contentsline {section}{\numberline {3.2}Videobrowser Evaluierung}{22}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Video Browser Showdown}{23}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}TREC Video Retrieval Evaluation}{24}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}Videonavigation auf Tablets und Smartphones}{26}{chapter.4}
-\contentsline {section}{\numberline {4.1}Interface Design Guidelines}{27}{section.4.1}
-\contentsline {section}{\numberline {4.2}Multi-Touch Bildschirme und Gesten}{27}{section.4.2}
-\contentsline {section}{\numberline {4.3}Standardvideoplayer}{30}{section.4.3}
-\contentsline {section}{\numberline {4.4}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{31}{section.4.4}
-\contentsline {chapter}{\numberline {5}Wischgestenbasierender Videoplayer}{40}{chapter.5}
-\contentsline {section}{\numberline {5.1}Spezifikation}{40}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Anforderungsanalyse}{40}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Navigationskonzept}{41}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Grafische Benutzeroberfl\IeC {\"a}che}{43}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Grundlagen der iOS Entwicklung}{45}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Model-View-Controller Konzept}{45}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Protokolle und Delegates}{46}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Observerpattern}{47}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}AVFoundation}{49}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Gesturerecognizer und UIResponder}{51}{subsection.5.2.5}
-\contentsline {section}{\numberline {5.3}Details zur Implementierung und Probleme}{52}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Hardware und Software}{53}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Probleme}{53}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Storyboard und Klassen}{55}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Umsetzung des Interaktionskonzepts}{59}{subsection.5.3.4}
-\contentsline {subsection}{\numberline {5.3.5}Logging}{64}{subsection.5.3.5}
+\contentsline {section}{\numberline {2.5}Grundlagen der iOS Entwicklung}{13}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Model-View-Controller Konzept}{13}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Protokolle und Delegates}{14}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Observerpattern}{15}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}AVFoundation}{17}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Gesturerecognizer und UIResponder}{19}{subsection.2.5.5}
+\contentsline {chapter}{\numberline {3}Videobrowsing}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Navigationsunterst\IeC {\"u}tzung}{21}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Klassische Navigation}{21}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Automatische Inhaltsanalyse}{23}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Alternative Inhaltsvisualisierung und Navigation}{27}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Videobrowser Evaluierung}{30}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Video Browser Showdown}{31}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}TREC Video Retrieval Evaluation}{32}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Videonavigation auf Tablets und Smartphones}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Interface Design Guidelines}{35}{section.4.1}
+\contentsline {section}{\numberline {4.2}Multi-Touch Bildschirme und Gesten}{35}{section.4.2}
+\contentsline {section}{\numberline {4.3}Standardvideoplayer}{38}{section.4.3}
+\contentsline {section}{\numberline {4.4}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{39}{section.4.4}
+\contentsline {chapter}{\numberline {5}Wischgestenbasierender Videoplayer}{48}{chapter.5}
+\contentsline {section}{\numberline {5.1}Spezifikation}{48}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Anforderungsanalyse}{48}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Navigationskonzept}{49}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Grafische Benutzeroberfl\IeC {\"a}che}{51}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Details zur Implementierung und Probleme}{52}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Hardware und Software}{53}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Probleme}{53}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Storyboard und Klassen}{55}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Umsetzung des Interaktionskonzepts}{59}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Logging}{64}{subsection.5.2.5}
 \contentsline {chapter}{\numberline {6}Benutzerstudie und Evaluierung}{67}{chapter.6}
 \contentsline {section}{\numberline {6.1}Aufbau der Studie}{67}{section.6.1}
 \contentsline {section}{\numberline {6.2}Durchf\IeC {\"u}hrung}{69}{section.6.2}
