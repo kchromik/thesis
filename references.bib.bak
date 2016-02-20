@@ -27,6 +27,15 @@
   organization = {ACM}
 }
 
+@Misc{appleGesturesStandard,
+  author =       {Apple Inc.},
+  title =        {iOS Human Interface Guidelines: Interactivity and Feedback},
+  howpublished = {\url{https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/InteractivityInput.html}},
+  note =         {Eingesehen am 20.02.2016},
+  key =          {appleGesturesStandard},
+  url =          {https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/InteractivityInput.html}
+}
+
 @Book{appsfuerios,
   title =     {Apps fuer iOS 9 professionell entwickeln: Sauberen Code schreiben mit Objective-C und Swift. Stabile Apps programmieren. Techniken und Methoden von Grund auf verstehen},
   publisher = {Hanser},
@@ -482,6 +491,15 @@
   number =    {1},
   pages =     {185--192},
   publisher = {Wiley Online Library}
+}
+
+@InProceedings{ruiz2011user,
+  author =       {Ruiz, Jaime and Li, Yang and Lank, Edward},
+  title =        {User-defined motion gestures for mobile interaction},
+  booktitle =    {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  year =         {2011},
+  pages =        {197--206},
+  organization = {ACM}
 }
 
 @InProceedings{schoeffmann2010video,

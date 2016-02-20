@@ -348,6 +348,13 @@ Uwe Laufs and Christopher Ruff.
 \newblock Aufbau von multi-touch-systemen.
 \newblock In {\em Multi-Touch}, pages 145--152. Springer, 2013.
 
+\bibitem{appleGesturesStandard}
+Apple Inc.
+\newblock ios human interface guidelines: Interactivity and feedback.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/InteractivityInput.html}.
+\newblock Eingesehen am 20.02.2016.
+
 \bibitem{huber2010toward}
 Jochen Huber, Juergen Steimle, and Max Muehlhaeuser.
 \newblock Toward more efficient user interfaces for mobile video browsing: an

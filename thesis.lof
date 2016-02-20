@@ -13,36 +13,38 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Joke-O-Mat Benutzeroberfl\IeC {\"a}che \cite {friedland2009joke}}}{19}{figure.3.4}
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Hierarchische Baum\IeC {\"u}bersicht \cite {del2010instant}}}{20}{figure.3.5}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces YooSee Benutzeroberfl\IeC {\"a}che \cite {azzopardi2012yoosee}}}{22}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces VLC Player auf einem iPad}}{28}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces ThumbBrowser in Benutzung \cite {hudelist2013mobile}}}{29}{figure.3.8}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces PocketDRAGON mit Fu\IeC {\ss }ballszene \cite {karrer2009pocketdragon}}}{31}{figure.3.9}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Keyframe-basierter Navigationsbaum \cite {hudelist2015improving}}}{32}{figure.3.10}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Mobile ZoomSlider Schnelldurchlauf durch Speedborders \cite {hurst2007interactive}}}{33}{figure.3.11}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Wipe'n'Watch Player mit inter-Video Navigation \cite {huber2010wipe}}}{34}{figure.3.12}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces SwiPlayer intra-Video Navigation und Granularit\IeC {\"a}t \cite {schoeffmann2014video2}}}{35}{figure.3.13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Navigation innerhalb von Textdokumenten \cite {hurst2008interfaces}}}{39}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Flickplayer Wischgesteninteraktion}}{40}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Benutzeroberfl\IeC {\"a}che des Flickplayers}}{41}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Model-View-Controller \cite {harris2014beginning}}}{43}{figure.4.4}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Key-Value Observer anlegen \cite {KeyValueObserving}}}{46}{figure.4.5}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Key-Value Observer anmelden \cite {KeyValueObserving}}}{46}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Einordnung von AVFoundation in iOS \cite {AboutAVFoundation}}}{47}{figure.4.7}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Abspielen einer Videodatei mit AVFoundation \cite {AVFoundationPlayback}}}{47}{figure.4.8}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces UIResponder Chain \cite {UIResponderChain}}}{49}{figure.4.9}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Frame-Typen der Videokodierung \cite {wu2005guidelines}}}{51}{figure.4.10}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Storyboard des Flickplayers}}{52}{figure.4.11}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Geschwindigkeitsindikator Flickplayer}}{55}{figure.4.12}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Player View Stack}}{56}{figure.4.13}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Flickplayer Geschwindigkeits-Intervalle}}{59}{figure.4.14}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Formular f\IeC {\"u}r Nutzertestinformationen}}{62}{figure.4.15}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Standardgesten f\IeC {\"u}r iOS \cite {appleGesturesStandard}}}{29}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces VLC Player auf einem iPad}}{30}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ThumbBrowser in Benutzung \cite {hudelist2013mobile}}}{32}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces PocketDRAGON mit Fu\IeC {\ss }ballszene \cite {karrer2009pocketdragon}}}{33}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Keyframe-basierter Navigationsbaum \cite {hudelist2015improving}}}{35}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Mobile ZoomSlider Schnelldurchlauf durch Speedborders \cite {hurst2007interactive}}}{35}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Wipe'n'Watch Player mit inter-Video Navigation \cite {huber2010wipe}}}{37}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces SwiPlayer intra-Video Navigation und Granularit\IeC {\"a}t \cite {schoeffmann2014video2}}}{38}{figure.4.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Prototypen mit Adaptionen f\IeC {\"u}r Studie}}{65}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Aufbau der Benutzerstudie}}{66}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Boxplot zur Suchdauer Nachrichten Videos}}{69}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Boxplot zur Suchdauer Dokumentation Videos}}{70}{figure.5.4}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Boxplot zur Suchdauer Quizshow Videos}}{71}{figure.5.5}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Boxplot zur Suchdauer Fu\IeC {\ss }ball Videos}}{73}{figure.5.6}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces NASA TLX Bewertungsverteilung von 1 - 21}}{74}{figure.5.7}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Subjektive Bewertung der Videoplayer}}{76}{figure.5.8}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Navigation innerhalb von Textdokumenten \cite {hurst2008interfaces}}}{42}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Flickplayer Wischgesteninteraktion}}{43}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Benutzeroberfl\IeC {\"a}che des Flickplayers}}{44}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Model-View-Controller \cite {harris2014beginning}}}{46}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Key-Value Observer anlegen \cite {KeyValueObserving}}}{49}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Key-Value Observer anmelden \cite {KeyValueObserving}}}{49}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Einordnung von AVFoundation in iOS \cite {AboutAVFoundation}}}{50}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Abspielen einer Videodatei mit AVFoundation \cite {AVFoundationPlayback}}}{50}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces UIResponder Chain \cite {UIResponderChain}}}{52}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Frame-Typen der Videokodierung \cite {wu2005guidelines}}}{54}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Storyboard des Flickplayers}}{55}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Geschwindigkeitsindikator Flickplayer}}{58}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Player View Stack}}{59}{figure.5.13}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Flickplayer Geschwindigkeits-Intervalle}}{62}{figure.5.14}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Formular f\IeC {\"u}r Nutzertestinformationen}}{65}{figure.5.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Prototypen mit Adaptionen f\IeC {\"u}r Studie}}{68}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Aufbau der Benutzerstudie}}{69}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Boxplot zur Suchdauer Nachrichten Videos}}{72}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Boxplot zur Suchdauer Dokumentation Videos}}{73}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Boxplot zur Suchdauer Quizshow Videos}}{74}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Boxplot zur Suchdauer Fu\IeC {\ss }ball Videos}}{76}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces NASA TLX Bewertungsverteilung von 1 - 21}}{77}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Subjektive Bewertung der Videoplayer}}{79}{figure.6.8}
 \addvspace {10\p@ }
