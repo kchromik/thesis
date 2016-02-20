@@ -21,8 +21,7 @@
 
 %\begin{comment} 
 \maketitle
-
-
+\pagenumbering{roman}
 \begin{preface}{Eidesstattliche Erklärung}
 Ich versichere an Eides statt, dass ich\\
 - diese eingereichte wissenschaftliche Arbeit selbstständig verfasst und andere als die angegebenen Hilfsmittel nicht benutzt habe,\\
@@ -37,22 +36,32 @@ Ich versichere an Eides statt, dass ich\\
 An dieser Stelle möchte ich mich bei meiner Familie und insbesondere bei meiner Freundin für die intensive Unterstützung und Motivation während meines Studiums und allen Phasen dieser Arbeit bedanken. Ein weiterer Dank geht an Herrn Dipl.-Ing. Dr. Bonifaz Kaufmann für die Idee der Applikation. Ebenfalls gebührt ein besonderer Dank Herrn Assoc.-Prof. Dipl.-Ing. Dr Klaus Schöffmann für die außerordentlich umfangreiche Betreuung dieser Arbeit.  Abschließend möchte ich mich bei dem Next-Generation Video Browsing Projekt für die Unterstützung bedanken.
 \end{preface}
 
-%\begin{preface}{Kurzfassung}
-% dt. Zusammenfassung
-%\end{preface}
-
-%\begin{preface}{Abstract}
-% dt. Zusammenfassung
-%\end{preface}
 
 
+
+\setcounter{page}{5}
+\addcontentsline{toc}{chapter}{Kurzfassung}
+\begin{preface}{Kurzfassung}
+ dt. Zusammenfassung
+\end{preface}
+
+\setcounter{page}{6}
+\addcontentsline{toc}{chapter}{Abstract}
+\begin{preface}{Abstract}
+ english Zusammenfassung
+\end{preface}
+
+
+
+\setcounter{page}{7}
+\addcontentsline{toc}{chapter}{\contentsname}
 {
 	\setlength{\baselineskip}%
 			{1.5\baselineskip}
 	\afterpreface
 }
 
-
+\addcontentsline{toc}{chapter}{\listfigurename}
 {
 	\setlength{\baselineskip}%
 			{1.5\baselineskip}
@@ -61,6 +70,9 @@ An dieser Stelle möchte ich mich bei meiner Familie und insbesondere bei meiner
 	%\listoftables
 	\clearemptydoublepage
 }
+
+
+\pagenumbering{arabic}
 
 %As said in \cite{Lux2008} ....
 \chapter{Einleitung}
@@ -113,7 +125,7 @@ Die stark erhöhten Absätze jeweils im vierten Quartal sind insbesondere auf da
 \label{absatz_markt}
 \end{center}
 \end{figure}
-Generell geht die International Data Corporation davon aus, dass die weltweiten Verkauszahlen sich bis 2019 konstant auf etwa 250 Millionen verkauften Tablets fixieren und sich das jährliche Marktwachstum einstellen wird. Diese Entwicklung ist auch in Abbildung 2.3 in einem Diagramm dargestellt. \cite{IDCMarketdevelopment}
+Generell geht die International Data Corporation davon aus, dass die weltweiten Verkauszahlen sich bis 2019 konstant auf etwa 250 Millionen verkauften Tablets fixieren und sich das jährliche Marktwachstum einstellen wird. Diese Entwicklung ist auch in Abbildung \ref{absatz_markt} in einem Diagramm dargestellt. \cite{IDCMarketdevelopment}
 Das iPad war in erster Linie für den Privatgebrauch gedacht, jedoch haben seither auch Unternehmen großes Interesse an dieser Gerätekategorie gezeigt und evaluiert, wie diese Geräte den Alltag der Angestellten vereinfachen können, was insbesondere auf die hohe Mobilität zurückzuführen ist. Aus diesem Grund kommen die Nutzer sowohl aus dem Unternehmerbereich, sowie aus dem Privatsektor. In Schulen und Universitäten haben Tablet-PCs auch eine große Verbreitung gefunden. Technologiegestütztes Lernen kann die Leistung von Schülern und Studenten fördern, da die aktive Einbindung den Lernprozess unterstützt. Des Weiteren erhöht es die Interaktionsaktivität zwischen den Lehrern und Belehrten. \cite{fischer2012potential}
 
 Die sehr hohe Konsumentenanzahl von Videomedien macht es deshalb interessant, die Art und Weise, wie das Medium konsumiert wird, zu analysieren und Vorschläge zu machen, wie diese Erfahrung verbessert werden kann.
@@ -878,15 +890,17 @@ Auf Grundlage der gewonnenen Erkenntnisse durch die Studie kann gesagt werden, d
 
 
 
-
-
 %	\bibliographystyle{plain} %nummerierung in der reihenfolge wie bib-file
 %	\bibliographystyle{abbrv} %wie plain, namen werden abgekuerzt
 \bibliographystyle{unsrt} %keine sortierung - durch \cite vorgegeben
 %	\bibliographystyle{alpha} %nummer aus autorenkuerzel und jahr wird erzeugt
+\addcontentsline{toc}{chapter}{Literatur}
+
+
+
 \bibliography{references}
 \clearemptydoublepage
-
+\addcontentsline{toc}{chapter}{Appendix}
 \includepdf[pages=-]{Fragebogen_2_en}
 	
 %	\printindex

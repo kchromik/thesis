@@ -34,6 +34,41 @@ Yovisto.
 \newblock \url{http://www.yovisto.com}.
 \newblock Eingesehen am 28.10.2015.
 
+\bibitem{harris2014beginning}
+Nick Harris.
+\newblock {\em Beginning IOS Programming: Building and Deploying IOS
+  Applications}.
+\newblock John Wiley \& Sons, 2014.
+\newblock ISBN 9781118841440.
+
+\bibitem{KeyValueObserving}
+Apple Inc.
+\newblock Apple ios developer library: Key-value observing.
+\newblock
+  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{AboutAVFoundation}
+Apple Inc.
+\newblock Apple ios developer library: About avfoundation.
+\newblock
+  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{AVFoundationPlayback}
+Apple Inc.
+\newblock Avfoundation playback.
+\newblock
+  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/02_Playback.html}.
+\newblock Eingesehen am 03.10.2015.
+
+\bibitem{UIResponderChain}
+Apple Inc.
+\newblock Apple ios developer library: Uiresponder chain.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/event_delivery_responder_chain/event_delivery_responder_chain.html}.
+\newblock Eingesehen am 05.10.2015.
+
 \bibitem{schoeffmann2010video}
 Klaus Schoeffmann, Mario Taschwer, and Laszlo Boeszoermenyi.
 \newblock The video explorer: a tool for navigation and searching within a
@@ -61,6 +96,13 @@ Leif Azzopardi, Douglas Dowie, and Kelly~Ann Marshall.
 \newblock In {\em Proceedings of the 35th international ACM SIGIR conference on
   Research and development in information retrieval}, pages 1017--1017. ACM,
   2012.
+
+\bibitem{appleGesturesStandard}
+Apple Inc.
+\newblock ios human interface guidelines: Interactivity and feedback.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/InteractivityInput.html}.
+\newblock Eingesehen am 20.02.2016.
 
 \bibitem{hudelist2013mobile}
 Marco~A Hudelist, Klaus Schoeffmann, and Laszlo Boeszoermenyi.
@@ -107,41 +149,6 @@ Wolfgang Huerst and Konrad Meier.
 \newblock Interfaces for timeline-based mobile video browsing.
 \newblock In {\em Proceedings of the 16th ACM international conference on
   Multimedia}, pages 469--478. ACM, 2008.
-
-\bibitem{harris2014beginning}
-Nick Harris.
-\newblock {\em Beginning IOS Programming: Building and Deploying IOS
-  Applications}.
-\newblock John Wiley \& Sons, 2014.
-\newblock ISBN 9781118841440.
-
-\bibitem{KeyValueObserving}
-Apple Inc.
-\newblock Apple ios developer library: Key-value observing.
-\newblock
-  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html}.
-\newblock Eingesehen am 03.10.2015.
-
-\bibitem{AboutAVFoundation}
-Apple Inc.
-\newblock Apple ios developer library: About avfoundation.
-\newblock
-  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html}.
-\newblock Eingesehen am 03.10.2015.
-
-\bibitem{AVFoundationPlayback}
-Apple Inc.
-\newblock Avfoundation playback.
-\newblock
-  \url{https://developer.apple.com/library/prerelease/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/02_Playback.html}.
-\newblock Eingesehen am 03.10.2015.
-
-\bibitem{UIResponderChain}
-Apple Inc.
-\newblock Apple ios developer library: Uiresponder chain.
-\newblock
-  \url{https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/event_delivery_responder_chain/event_delivery_responder_chain.html}.
-\newblock Eingesehen am 05.10.2015.
 
 \bibitem{wu2005guidelines}
 Huahui Wu, Mark Claypool, and Robert Kinicki.
@@ -213,6 +220,60 @@ Birgit Gaiser.
 \newblock {\em Good tags-bad tags}, volume~47.
 \newblock Waxmann Verlag, 2008.
 \newblock ISBN 9783830920397.
+
+\bibitem{appsfuerios}
+Thomas Sillmann.
+\newblock {\em Apps fuer iOS 9 professionell entwickeln: Sauberen Code
+  schreiben mit Objective-C und Swift. Stabile Apps programmieren. Techniken
+  und Methoden von Grund auf verstehen}.
+\newblock Hanser, 2015.
+
+\bibitem{WorkingwithProtocols}
+Apple Inc.
+\newblock Apple ios developer library: Working with protocols.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html}.
+\newblock Eingesehen am 02.10.2015.
+
+\bibitem{NSNotificationCenterClass}
+Apple Inc.
+\newblock Apple ios developer library: Nsnotificationcenter class.
+\newblock
+  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSNotificationCenter_Class/}.
+\newblock Eingesehen am 02.10.2015.
+
+\bibitem{chung2011pro}
+Carlo Chung and James Bucanek.
+\newblock {\em Pro Objective-C Design Patterns for iOS}.
+\newblock Springer, 2011.
+\newblock ISBN 9781430233305.
+
+\bibitem{learnios8}
+James Bucanek.
+\newblock {\em Learn iOS 8 App Development}.
+\newblock Apress, 2014.
+\newblock ISBN 9781484202081.
+
+\bibitem{mccune2014learning}
+Bob McCune.
+\newblock {\em Learning AV Foundation: A Hands-on Guide to Mastering the AV
+  Foundation Framework}.
+\newblock Pearson Education, 2014.
+\newblock ISBN 9780133563825.
+
+\bibitem{UIResponderClass}
+Apple Inc.
+\newblock Apple ios developer library: Uiresponder class.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIResponder_Class/}.
+\newblock Eingesehen am 05.10.2015.
+
+\bibitem{UIGestureRecognizerClass}
+Apple Inc.
+\newblock Apple ios developer library: Uigesturerecognizer class.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/}.
+\newblock Eingesehen am 05.10.2015.
 
 \bibitem{juengling2014videozoom}
 Kai Juengling, Scott Blunsden, and Cristina Versino.
@@ -348,13 +409,6 @@ Uwe Laufs and Christopher Ruff.
 \newblock Aufbau von multi-touch-systemen.
 \newblock In {\em Multi-Touch}, pages 145--152. Springer, 2013.
 
-\bibitem{appleGesturesStandard}
-Apple Inc.
-\newblock ios human interface guidelines: Interactivity and feedback.
-\newblock
-  \url{https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/InteractivityInput.html}.
-\newblock Eingesehen am 20.02.2016.
-
 \bibitem{huber2010toward}
 Jochen Huber, Juergen Steimle, and Max Muehlhaeuser.
 \newblock Toward more efficient user interfaces for mobile video browsing: an
@@ -373,60 +427,6 @@ YouTube LLC.
 \newblock Youtube homepage.
 \newblock \url{https://www.youtube.com}.
 \newblock Eingesehen am 30.10.2015.
-
-\bibitem{appsfuerios}
-Thomas Sillmann.
-\newblock {\em Apps fuer iOS 9 professionell entwickeln: Sauberen Code
-  schreiben mit Objective-C und Swift. Stabile Apps programmieren. Techniken
-  und Methoden von Grund auf verstehen}.
-\newblock Hanser, 2015.
-
-\bibitem{WorkingwithProtocols}
-Apple Inc.
-\newblock Apple ios developer library: Working with protocols.
-\newblock
-  \url{https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html}.
-\newblock Eingesehen am 02.10.2015.
-
-\bibitem{NSNotificationCenterClass}
-Apple Inc.
-\newblock Apple ios developer library: Nsnotificationcenter class.
-\newblock
-  \url{https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSNotificationCenter_Class/}.
-\newblock Eingesehen am 02.10.2015.
-
-\bibitem{chung2011pro}
-Carlo Chung and James Bucanek.
-\newblock {\em Pro Objective-C Design Patterns for iOS}.
-\newblock Springer, 2011.
-\newblock ISBN 9781430233305.
-
-\bibitem{learnios8}
-James Bucanek.
-\newblock {\em Learn iOS 8 App Development}.
-\newblock Apress, 2014.
-\newblock ISBN 9781484202081.
-
-\bibitem{mccune2014learning}
-Bob McCune.
-\newblock {\em Learning AV Foundation: A Hands-on Guide to Mastering the AV
-  Foundation Framework}.
-\newblock Pearson Education, 2014.
-\newblock ISBN 9780133563825.
-
-\bibitem{UIResponderClass}
-Apple Inc.
-\newblock Apple ios developer library: Uiresponder class.
-\newblock
-  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIResponder_Class/}.
-\newblock Eingesehen am 05.10.2015.
-
-\bibitem{UIGestureRecognizerClass}
-Apple Inc.
-\newblock Apple ios developer library: Uigesturerecognizer class.
-\newblock
-  \url{https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/}.
-\newblock Eingesehen am 05.10.2015.
 
 \bibitem{GithubLandingPage}
 Github Inc.
