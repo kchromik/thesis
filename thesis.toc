@@ -30,7 +30,7 @@
 \contentsline {section}{\numberline {4.3}Standardvideoplayer}{36}{section.4.3}
 \contentsline {section}{\numberline {4.4}Videobrowsing auf mobilen Ger\IeC {\"a}ten}{37}{section.4.4}
 \contentsline {chapter}{\numberline {5}Wischgestenbasierender Videoplayer}{46}{chapter.5}
-\contentsline {section}{\numberline {5.1}Spezifikation}{46}{section.5.1}
+\contentsline {section}{\numberline {5.1}Spezifikationen}{46}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Anforderungsanalyse}{46}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Navigationskonzept}{47}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}Grafische Benutzeroberfl\IeC {\"a}che}{49}{subsection.5.1.3}
