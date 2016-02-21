@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.23)  21 FEB 2016 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.23)  21 FEB 2016 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3773,11 +3773,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 908.
 Here is how much of TeX's memory you used:
  12143 strings out of 493089
  173316 string characters out of 6134841
- 375925 words of memory out of 5000000
+ 376925 words of memory out of 5000000
  14977 multiletter control sequences out of 15000+600000
  72932 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,18n,58p,3146b,1864s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,18n,58p,3154b,1864s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
 15/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/
@@ -3796,7 +3796,7 @@ ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/lm/lmtt10.pfb>
-Output written on thesis.pdf (100 pages, 10770356 bytes).
+Output written on thesis.pdf (100 pages, 10770409 bytes).
 PDF statistics:
  1466 PDF objects out of 1728 (max. 8388607)
  1225 compressed objects within 13 object streams
