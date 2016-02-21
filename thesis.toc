@@ -14,7 +14,7 @@
 \contentsline {subsection}{\numberline {2.4.1}Model-View-Controller Konzept}{11}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Protokolle und Delegates}{12}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Observerpattern}{13}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}AVFoundation}{14}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.4}AVFoundation}{15}{subsection.2.4.4}
 \contentsline {subsection}{\numberline {2.4.5}Gesturerecognizer und UIResponder}{17}{subsection.2.4.5}
 \contentsline {chapter}{\numberline {3}Videobrowsing}{19}{chapter.3}
 \contentsline {section}{\numberline {3.1}Navigationsunterst\IeC {\"u}tzung}{19}{section.3.1}
