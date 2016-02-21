@@ -6,48 +6,47 @@
 \BOOKMARK [1][-]{section.1.1}{Ziel der Arbeit}{chapter.1}% 6
 \BOOKMARK [1][-]{section.1.2}{Aufbau der Arbeit}{chapter.1}% 7
 \BOOKMARK [0][-]{chapter.2}{Motivation und Grundlagen}{}% 8
-\BOOKMARK [1][-]{section.2.1}{Tablet-PCs und Smartphones am Massenmarkt}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.2}{Multimediale Inhalte}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.3}{Videokonsum auf mobilen Ger\344ten}{chapter.2}% 11
-\BOOKMARK [1][-]{section.2.4}{Durchsuchbarkeit von Multimedia Dateien}{chapter.2}% 12
-\BOOKMARK [1][-]{section.2.5}{Grundlagen der iOS Entwicklung}{chapter.2}% 13
-\BOOKMARK [2][-]{subsection.2.5.1}{Model-View-Controller Konzept}{section.2.5}% 14
-\BOOKMARK [2][-]{subsection.2.5.2}{Protokolle und Delegates}{section.2.5}% 15
-\BOOKMARK [2][-]{subsection.2.5.3}{Observerpattern}{section.2.5}% 16
-\BOOKMARK [2][-]{subsection.2.5.4}{AVFoundation}{section.2.5}% 17
-\BOOKMARK [2][-]{subsection.2.5.5}{Gesturerecognizer und UIResponder}{section.2.5}% 18
-\BOOKMARK [0][-]{chapter.3}{Videobrowsing}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Navigationsunterst\374tzung}{chapter.3}% 20
-\BOOKMARK [2][-]{subsection.3.1.1}{Klassische Navigation}{section.3.1}% 21
-\BOOKMARK [2][-]{subsection.3.1.2}{Automatische Inhaltsanalyse}{section.3.1}% 22
-\BOOKMARK [2][-]{subsection.3.1.3}{Alternative Inhaltsvisualisierung und Navigation}{section.3.1}% 23
-\BOOKMARK [1][-]{section.3.2}{Videobrowser Evaluierung}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.2.1}{Video Browser Showdown}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.2}{TREC Video Retrieval Evaluation}{section.3.2}% 26
-\BOOKMARK [0][-]{chapter.4}{Videonavigation auf Tablets und Smartphones}{}% 27
-\BOOKMARK [1][-]{section.4.1}{Interface Design Guidelines}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.2}{Multi-Touch Bildschirme und Gesten}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.3}{Standardvideoplayer}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.4}{Videobrowsing auf mobilen Ger\344ten}{chapter.4}% 31
-\BOOKMARK [0][-]{chapter.5}{Wischgestenbasierender Videoplayer}{}% 32
-\BOOKMARK [1][-]{section.5.1}{Spezifikation}{chapter.5}% 33
-\BOOKMARK [2][-]{subsection.5.1.1}{Anforderungsanalyse}{section.5.1}% 34
-\BOOKMARK [2][-]{subsection.5.1.2}{Navigationskonzept}{section.5.1}% 35
-\BOOKMARK [2][-]{subsection.5.1.3}{Grafische Benutzeroberfl\344che}{section.5.1}% 36
-\BOOKMARK [1][-]{section.5.2}{Details zur Implementierung und Probleme}{chapter.5}% 37
-\BOOKMARK [2][-]{subsection.5.2.1}{Hardware und Software}{section.5.2}% 38
-\BOOKMARK [2][-]{subsection.5.2.2}{Probleme}{section.5.2}% 39
-\BOOKMARK [2][-]{subsection.5.2.3}{Storyboard und Klassen}{section.5.2}% 40
-\BOOKMARK [2][-]{subsection.5.2.4}{Umsetzung des Interaktionskonzepts}{section.5.2}% 41
-\BOOKMARK [2][-]{subsection.5.2.5}{Logging}{section.5.2}% 42
-\BOOKMARK [0][-]{chapter.6}{Benutzerstudie und Evaluierung}{}% 43
-\BOOKMARK [1][-]{section.6.1}{Aufbau der Studie}{chapter.6}% 44
-\BOOKMARK [1][-]{section.6.2}{Durchf\374hrung}{chapter.6}% 45
-\BOOKMARK [1][-]{section.6.3}{Evaluierung}{chapter.6}% 46
-\BOOKMARK [2][-]{subsection.6.3.1}{Zielsuche}{section.6.3}% 47
-\BOOKMARK [2][-]{subsection.6.3.2}{Z\344hlaufgaben}{section.6.3}% 48
-\BOOKMARK [2][-]{subsection.6.3.3}{Benutzerbewertung im NASA TLX}{section.6.3}% 49
-\BOOKMARK [2][-]{subsection.6.3.4}{Bevorzugter Videoplayer}{section.6.3}% 50
-\BOOKMARK [0][-]{chapter.7}{Res\374mee und Ausblick}{}% 51
-\BOOKMARK [0][-]{chapter.7}{Literatur}{}% 52
-\BOOKMARK [0][-]{chapter*.3}{Appendix}{}% 53
+\BOOKMARK [1][-]{section.2.1}{Multimediale Inhalte}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Videokonsum auf mobilen Ger\344ten}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Durchsuchbarkeit von Multimedia Dateien}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.4}{Grundlagen der iOS Entwicklung}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.4.1}{Model-View-Controller Konzept}{section.2.4}% 13
+\BOOKMARK [2][-]{subsection.2.4.2}{Protokolle und Delegates}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.3}{Observerpattern}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.4}{AVFoundation}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.5}{Gesturerecognizer und UIResponder}{section.2.4}% 17
+\BOOKMARK [0][-]{chapter.3}{Videobrowsing}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Navigationsunterst\374tzung}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Klassische Navigation}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Automatische Inhaltsanalyse}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.3}{Alternative Inhaltsvisualisierung und Navigation}{section.3.1}% 22
+\BOOKMARK [1][-]{section.3.2}{Videobrowser Evaluierung}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.2.1}{Video Browser Showdown}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.2}{TREC Video Retrieval Evaluation}{section.3.2}% 25
+\BOOKMARK [0][-]{chapter.4}{Videonavigation auf Tablets und Smartphones}{}% 26
+\BOOKMARK [1][-]{section.4.1}{Interface Design Guidelines}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{Multi-Touch Bildschirme und Gesten}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.3}{Standardvideoplayer}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.4}{Videobrowsing auf mobilen Ger\344ten}{chapter.4}% 30
+\BOOKMARK [0][-]{chapter.5}{Wischgestenbasierender Videoplayer}{}% 31
+\BOOKMARK [1][-]{section.5.1}{Spezifikation}{chapter.5}% 32
+\BOOKMARK [2][-]{subsection.5.1.1}{Anforderungsanalyse}{section.5.1}% 33
+\BOOKMARK [2][-]{subsection.5.1.2}{Navigationskonzept}{section.5.1}% 34
+\BOOKMARK [2][-]{subsection.5.1.3}{Grafische Benutzeroberfl\344che}{section.5.1}% 35
+\BOOKMARK [1][-]{section.5.2}{Details zur Implementierung und Probleme}{chapter.5}% 36
+\BOOKMARK [2][-]{subsection.5.2.1}{Hardware und Software}{section.5.2}% 37
+\BOOKMARK [2][-]{subsection.5.2.2}{Probleme}{section.5.2}% 38
+\BOOKMARK [2][-]{subsection.5.2.3}{Storyboard und Klassen}{section.5.2}% 39
+\BOOKMARK [2][-]{subsection.5.2.4}{Umsetzung des Interaktionskonzepts}{section.5.2}% 40
+\BOOKMARK [2][-]{subsection.5.2.5}{Logging}{section.5.2}% 41
+\BOOKMARK [0][-]{chapter.6}{Benutzerstudie und Evaluierung}{}% 42
+\BOOKMARK [1][-]{section.6.1}{Aufbau der Studie}{chapter.6}% 43
+\BOOKMARK [1][-]{section.6.2}{Durchf\374hrung}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.3}{Evaluierung}{chapter.6}% 45
+\BOOKMARK [2][-]{subsection.6.3.1}{Zielsuche}{section.6.3}% 46
+\BOOKMARK [2][-]{subsection.6.3.2}{Z\344hlaufgaben}{section.6.3}% 47
+\BOOKMARK [2][-]{subsection.6.3.3}{Benutzerbewertung im NASA TLX}{section.6.3}% 48
+\BOOKMARK [2][-]{subsection.6.3.4}{Bevorzugter Videoplayer}{section.6.3}% 49
+\BOOKMARK [0][-]{chapter.7}{Res\374mee und Ausblick}{}% 50
+\BOOKMARK [0][-]{chapter.7}{Literatur}{}% 51
+\BOOKMARK [0][-]{chapter*.3}{Appendix}{}% 52

@@ -7,16 +7,15 @@
 \contentsline {section}{\numberline {1.1}Ziel der Arbeit}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Aufbau der Arbeit}{2}{section.1.2}
 \contentsline {chapter}{\numberline {2}Motivation und Grundlagen}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Tablet-PCs und Smartphones am Massenmarkt}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Multimediale Inhalte}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Videokonsum auf mobilen Ger\IeC {\"a}ten}{8}{section.2.3}
-\contentsline {section}{\numberline {2.4}Durchsuchbarkeit von Multimedia Dateien}{9}{section.2.4}
-\contentsline {section}{\numberline {2.5}Grundlagen der iOS Entwicklung}{11}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Model-View-Controller Konzept}{11}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Protokolle und Delegates}{12}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Observerpattern}{13}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}AVFoundation}{15}{subsection.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}Gesturerecognizer und UIResponder}{17}{subsection.2.5.5}
+\contentsline {section}{\numberline {2.1}Multimediale Inhalte}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Videokonsum auf mobilen Ger\IeC {\"a}ten}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Durchsuchbarkeit von Multimedia Dateien}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Grundlagen der iOS Entwicklung}{10}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Model-View-Controller Konzept}{11}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Protokolle und Delegates}{12}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Observerpattern}{13}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}AVFoundation}{14}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Gesturerecognizer und UIResponder}{17}{subsection.2.4.5}
 \contentsline {chapter}{\numberline {3}Videobrowsing}{19}{chapter.3}
 \contentsline {section}{\numberline {3.1}Navigationsunterst\IeC {\"u}tzung}{19}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Klassische Navigation}{19}{subsection.3.1.1}
