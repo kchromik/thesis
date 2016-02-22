@@ -1,8 +1,8 @@
 \select@language {german}
-\contentsline {chapter}{Kurzfassung}{v}{Doc-Start}
-\contentsline {chapter}{Abstract}{vi}{Doc-Start}
-\contentsline {chapter}{Inhaltsverzeichnis}{vii}{Doc-Start}
-\contentsline {chapter}{Abbildungsverzeichnis}{x}{chapter*.1}
+\contentsline {chapter}{Kurzfassung}{v}{section*.1}
+\contentsline {chapter}{Abstract}{vi}{section*.2}
+\contentsline {chapter}{Inhaltsverzeichnis}{vii}{section*.3}
+\contentsline {chapter}{Abbildungsverzeichnis}{x}{section*.5}
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Ziel der Arbeit}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Aufbau der Arbeit}{2}{section.1.2}
@@ -49,5 +49,5 @@
 \contentsline {subsection}{\numberline {6.3.3}Benutzerbewertung im NASA TLX}{72}{subsection.6.3.3}
 \contentsline {subsection}{\numberline {6.3.4}Bevorzugter Videoplayer}{74}{subsection.6.3.4}
 \contentsline {chapter}{\numberline {7}Res\IeC {\"u}mee und Ausblick}{76}{chapter.7}
-\contentsline {chapter}{Literatur}{78}{section*.3}
-\contentsline {chapter}{Appendix}{86}{section*.5}
+\contentsline {chapter}{Literatur}{78}{section*.7}
+\contentsline {chapter}{Appendix}{86}{section*.9}
