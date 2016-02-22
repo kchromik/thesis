@@ -49,5 +49,5 @@
 \contentsline {subsection}{\numberline {6.3.3}Benutzerbewertung im NASA TLX}{72}{subsection.6.3.3}
 \contentsline {subsection}{\numberline {6.3.4}Bevorzugter Videoplayer}{74}{subsection.6.3.4}
 \contentsline {chapter}{\numberline {7}Res\IeC {\"u}mee und Ausblick}{76}{chapter.7}
-\contentsline {chapter}{Literatur}{77}{chapter.7}
-\contentsline {chapter}{Appendix}{86}{chapter*.3}
+\contentsline {chapter}{Literatur}{78}{section*.3}
+\contentsline {chapter}{Appendix}{86}{section*.5}

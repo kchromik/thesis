@@ -33,7 +33,7 @@ Ich versichere an Eides statt, dass ich\\
 \end{preface}
 
 \begin{preface}{Danksagung}
-An dieser Stelle möchte ich mich bei meiner Familie und insbesondere bei meiner Freundin für die intensive Unterstützung und Motivation während meines Studiums und allen Phasen dieser Arbeit bedanken. Ein weiterer Dank geht an Herrn Dipl.-Ing. Dr. Bonifaz Kaufmann für die Idee der Applikation. Ebenfalls gebührt ein besonderer Dank Herrn Assoc.-Prof. Dipl.-Ing. Dr Klaus Schöffmann für die außerordentlich umfangreiche Betreuung dieser Arbeit.  Abschließend möchte ich mich bei dem Institut für informationstechnologie Klagenfurt für die Unterstützung bedanken.
+An dieser Stelle möchte ich mich bei meiner Familie und insbesondere bei meiner Freundin für die intensive Unterstützung und Motivation während meines Studiums und allen Phasen dieser Arbeit bedanken. Ein weiterer Dank geht an Herrn Dipl.-Ing. Dr. Bonifaz Kaufmann für die Idee der Applikation. Ebenfalls gebührt ein besonderer Dank Herrn Assoc.-Prof. Dipl.-Ing. Dr. Klaus Schöffmann für die außerordentlich umfangreiche Betreuung dieser Arbeit.  Abschließend möchte ich mich bei dem Institut für informationstechnologie Klagenfurt für die Unterstützung bedanken.
 \end{preface}
 
 
@@ -877,16 +877,20 @@ Auf Grundlage der gewonnenen Erkenntnisse durch die Studie kann gesagt werden, d
 %	\bibliographystyle{plain} %nummerierung in der reihenfolge wie bib-file
 %	\bibliographystyle{abbrv} %wie plain, namen werden abgekuerzt
 
-\bibliographystyle{unsrt} %keine sortierung - durch \cite vorgegeben
+
 %	\bibliographystyle{alpha} %nummer aus autorenkuerzel und jahr wird erzeugt
-
-
-
+\newpage
+\cleardoublepage 
+\phantomsection
 \addcontentsline{toc}{chapter}{Literatur}
+\bibliographystyle{unsrt} %keine sortierung - durch \cite vorgegeben
+
 
 
 \bibliography{references}
-\clearemptydoublepage
+\newpage
+\cleardoublepage 
+\phantomsection
 \addcontentsline{toc}{chapter}{Appendix}
 \includepdf[pages=-]{Fragebogen_2_en}
 	
